@@ -1,5 +1,5 @@
 apps:
   - script: "app.js"
-    name: "SmaaashUs"
+    name: "SmaaashUs:94"
     watch: true
     args: "--prod"
