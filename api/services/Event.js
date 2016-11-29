@@ -58,13 +58,13 @@ var schema = new Schema({
 
 module.exports = mongoose.model('Event', schema);
 var models = {
-  saveData: function(data, callback) {
+  saveData: function (data, callback) {
     var event = this(data);
     event.timestamp = new Date();
     if (data._id) {
       this.findOneAndUpdate({
         _id: data._id
-      }, data).exec(function(err, updated) {
+      }, data).exec(function (err, updated) {
         if (err) {
           console.log(err);
           callback(err, null);
@@ -75,7 +75,7 @@ var models = {
         }
       });
     } else {
-      event.save(function(err, created) {
+      event.save(function (err, created) {
         if (err) {
           callback(err, null);
         } else if (created) {
@@ -86,10 +86,10 @@ var models = {
       });
     }
   },
-  deleteData: function(data, callback) {
+  deleteData: function (data, callback) {
     this.findOneAndRemove({
       _id: data._id
-    }, function(err, deleted) {
+    }, function (err, deleted) {
       if (err) {
         callback(err, null);
       } else if (deleted) {
@@ -99,8 +99,8 @@ var models = {
       }
     });
   },
-  getAll: function(data, callback) {
-    this.find({}).exec(function(err, found) {
+  getAll: function (data, callback) {
+    this.find({}).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
@@ -111,10 +111,10 @@ var models = {
       }
     });
   },
-  getOne: function(data, callback) {
+  getOne: function (data, callback) {
     this.findOne({
       "_id": data._id
-    }).exec(function(err, found) {
+    }).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
@@ -125,19 +125,19 @@ var models = {
       }
     });
   },
-  findLimited: function(data, callback) {
+  findLimited: function (data, callback) {
     var newreturns = {};
     newreturns.data = [];
     var check = new RegExp(data.search, "i");
     data.pagenumber = parseInt(data.pagenumber);
     data.pagesize = parseInt(data.pagesize);
     async.parallel([
-        function(callback) {
+        function (callback) {
           Event.count({
             title: {
               '$regex': check
             }
-          }).exec(function(err, number) {
+          }).exec(function (err, number) {
             if (err) {
               console.log(err);
               callback(err, null);
@@ -150,12 +150,12 @@ var models = {
             }
           });
         },
-        function(callback) {
+        function (callback) {
           Event.find({
             title: {
               '$regex': check
             }
-          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function(err, data2) {
+          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function (err, data2) {
             if (err) {
               console.log(err);
               callback(err, null);
@@ -168,7 +168,7 @@ var models = {
           });
         }
       ],
-      function(err, data4) {
+      function (err, data4) {
         if (err) {
           console.log(err);
           callback(err, null);
@@ -180,7 +180,7 @@ var models = {
       });
   },
 
-  findRegistration: function(data, callback) {
+  findRegistration: function (data, callback) {
     var newreturns = {};
     newreturns.data = [];
     var check = new RegExp(data.search, "i");
@@ -188,7 +188,7 @@ var models = {
     data.pagesize = parseInt(data.pagesize);
     var skip = parseInt(data.pagesize * (data.pagenumber - 1));
     async.parallel([
-        function(callback) {
+        function (callback) {
           Event.aggregate([{
             $match: {
               _id: objectid(data._id)
@@ -206,7 +206,7 @@ var models = {
             $project: {
               count: 1
             }
-          }]).exec(function(err, result) {
+          }]).exec(function (err, result) {
             console.log(result);
             if (result && result[0]) {
               newreturns.total = result[0].count;
@@ -222,7 +222,7 @@ var models = {
             }
           });
         },
-        function(callback) {
+        function (callback) {
           Event.aggregate([{
             $match: {
               _id: objectid(data._id)
@@ -243,7 +243,7 @@ var models = {
                 $slice: ["$registration", skip, data.pagesize]
               }
             }
-          }]).exec(function(err, found) {
+          }]).exec(function (err, found) {
             console.log(found);
             if (found && found.length > 0) {
               newreturns.data = found[0].registration;
@@ -259,7 +259,7 @@ var models = {
           });
         }
       ],
-      function(err, data4) {
+      function (err, data4) {
         if (err) {
           console.log(err);
           callback(err, null);
@@ -271,7 +271,7 @@ var models = {
       });
   },
 
-  deleteRegistration: function(data, callback) {
+  deleteRegistration: function (data, callback) {
     Event.update({
       "registration._id": data._id
     }, {
@@ -280,7 +280,7 @@ var models = {
           "_id": objectid(data._id)
         }
       }
-    }, function(err, updated) {
+    }, function (err, updated) {
       console.log(updated);
       if (err) {
         console.log(err);
@@ -292,7 +292,7 @@ var models = {
 
   },
 
-  saveRegistration: function(data, callback) {
+  saveRegistration: function (data, callback) {
     var event = data.event;
     if (!data._id) {
       Event.update({
@@ -301,7 +301,7 @@ var models = {
         $push: {
           registration: data
         }
-      }, function(err, updated) {
+      }, function (err, updated) {
         if (err) {
           console.log(err);
           callback(err, null);
@@ -313,14 +313,14 @@ var models = {
       data._id = objectid(data._id);
       tobechanged = {};
       var attribute = "registration.$.";
-      _.forIn(data, function(value, key) {
+      _.forIn(data, function (value, key) {
         tobechanged[attribute + key] = value;
       });
       Event.update({
         "registration._id": data._id
       }, {
         $set: tobechanged
-      }, function(err, updated) {
+      }, function (err, updated) {
         if (err) {
           console.log(err);
           callback(err, null);
@@ -330,7 +330,7 @@ var models = {
       });
     }
   },
-  findOneRegistration: function(data, callback) {
+  findOneRegistration: function (data, callback) {
     // aggregate query
     Event.aggregate([{
       $unwind: "$registration"
@@ -342,7 +342,7 @@ var models = {
       $project: {
         registration: 1
       }
-    }]).exec(function(err, respo) {
+    }]).exec(function (err, respo) {
       if (err) {
         console.log(err);
         callback(err, null);

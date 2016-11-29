@@ -16,6 +16,10 @@ var schema = new Schema({
     type: Boolean,
     default: false
   },
+  isPopular: {
+    type: Boolean,
+    default: false
+  },
   image: {
     type: String,
     default: ""
@@ -105,6 +109,138 @@ var models = {
       }
     });
   },
+  getDetailBlog: function (data, callback) {
+    // if (data.search) {
+
+    // }
+    var blogId = data._id;
+    var newreturns = {};
+    async.parallel({
+      //detail blog
+      blogDetail: function (callback) {
+        return Blog.findOne({
+          _id: blogId,
+          city: data.city
+        }, function (err, result) {
+          if (err) {
+            callback(err, null);
+          } else if (result) {
+            newreturns.blogDetail = result;
+            callback(null, result);
+          } else {
+            callback(null, {
+              message: "No data found"
+            });
+          }
+        });
+      },
+      popularBlog: function (callback) {
+        return Blog.find({
+          isPopular: true
+        }, function (err, result) {
+          if (err) {
+            callback(err, null);
+          } else if (result) {
+            newreturns.popularBlog = result;
+            callback(null, result);
+          } else {
+            callback(null, {
+              message: "No data found"
+            });
+          }
+        });
+      },
+      blogLikes: function (callback) {
+        return Blog.findOne({
+          _id: blogId
+        }, function (err, result) {
+          if (err) {
+            callback(err, null);
+          } else if (result) {
+            console.log(result);
+            // return likes array length
+            var likesArray = result.like;
+            var likesArrayLength = likesArray.length;
+            newreturns.blogLikes = likesArrayLength;
+            callback(null, likesArrayLength);
+          } else {
+            callback(null, {
+              message: "No data found"
+            });
+          }
+        });
+      },
+      blogComments: function (callback) {
+        return Blog.findOne({
+          _id: blogId
+        }, function (err, result) {
+          if (err) {
+            callback(err, null);
+          } else if (result) {
+            // return likes array length
+            var commentArray = result.comments;
+            var commentArrayLength = commentArray.length;
+            var commentsarr = {};
+            commentsarr.commentArray = commentArray;
+            commentsarr.commentArrayLength = commentArrayLength;
+            newreturns.blogComments = commentsarr;
+            callback(null, commentsarr);
+          } else {
+            callback(null, {
+              message: "No data found"
+            });
+          }
+        });
+      },
+
+      // {'post': {$ne : ""}}
+      previousNextBlog: function (callback) {
+        return Blog.find({
+          '_id': {
+            $ne: blogId
+          }
+        }, function (err, result) {
+          if (err) {
+            callback(err, null);
+          } else if (result) {
+            newreturns.previousNextBlog = result;
+            callback(null, result);
+          } else {
+            callback(null, {
+              message: "No data found"
+            });
+          }
+        });
+      },
+      youMayLike: function (callback) {
+        return Blog.find({
+          '_id': {
+            $ne: blogId
+          }
+        }, function (err, result) {
+          if (err) {
+            callback(err, null);
+          } else if (result) {
+            newreturns.youMayLike = result;
+            callback(null, result);
+          } else {
+            callback(null, {
+              message: "No data found"
+            });
+          }
+        });
+      },
+    }, function (err, data4) {
+      if (err) {
+        console.log(err);
+        callback(err, null);
+      } else if (data4) {
+        callback(null, newreturns);
+      } else {
+        callback(null, newreturns);
+      }
+    });
+  },
   getAllBlog: function (data, callback) {
     this.find({
       status: true
@@ -152,11 +288,17 @@ var models = {
       }
     });
   },
-
-
-
-
-
+  getPopularBlog: function (data, callback) {
+    Blog.find({
+      isPopular: true
+    }, function (err, popularBlog) {
+      if (err) {
+        callback(err, null);
+      } else {
+        callback(null, popularBlog);
+      }
+    });
+  },
   findLimited: function (data, callback) {
     var newreturns = {};
     newreturns.data = [];
@@ -227,7 +369,6 @@ var models = {
       });
   },
   findLimitedForBackend: function (data, callback) {
-
     var newreturns = {};
     newreturns.data = [];
     var check = new RegExp(data.search, "i");

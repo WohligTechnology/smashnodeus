@@ -207,23 +207,11 @@ module.exports = {
 
   checkWithParams1: function (req, res) {
 
-    var api = {
-      "APIKey": "afa35e6d32a54d64962a78ccf28c140017636054922421850805185"
-    };
-    // res.body = {
-    //     name: "GetCompanyDetails",
-    //     // name:"GetCompanyDetails",
-    //     // name:"GetPackageList",
-    //     //   name:"GetPackageList",
-    //     data: {
-    //         // name:"GetAllBranch",
-    //         // name:"GetCompanyDetails",
-
-    //         Visitdate: "2016-09-23",
-    //         BranchID: "12"
-    //     }
+    // var api = {
+    //   "APIKey": "afa35e6d32a54d64962a78ccf28c140017636054922421850805185"
     // };
-    api = _.assign(api, req.body.data);
+    var api = sails.api;
+    api = _.assign(api, req.body);
     console.log(api);
     request({
       url: "http://apismaaash.itspl.net/SMAAASHAPI.svc/" + req.body.name,
@@ -233,21 +221,28 @@ module.exports = {
       },
       body: JSON.stringify(api)
     }, function (err, httpResponse, body) {
+      console.log(err);
+      console.log("err");
       console.log(body);
-      // console.log(err);
-      // console.log(httpResponse);
-      // console.log(body);
-      res.json(JSON.parse(JSON.parse(body)));
+      if (body !== "") {
+        console.log("In body");
+        res.json(JSON.parse(JSON.parse(body)));
+      } else {
+        console.log("In else");
+        res.json({
+          value: false
+        })
+      }
+      // res.json(JSON.parse(JSON.parse(body)));
     });
   },
 
 
   checkWithParams2: function (req, res) {
-    // API WITH PARAMS
     var api = {
       "APIkey": "afa35e6d32a54d64962a78ccf28c140017636054922421850805185"
     };
-    api = _.assign(api, req.body.data);
+    api = _.assign(api, req.body);
     console.log(api);
     request({
       url: "http://apismaaash.itspl.net/SMAAASHAPI.svc/" + req.body.name,
@@ -257,8 +252,19 @@ module.exports = {
       },
       body: JSON.stringify(api)
     }, function (err, httpResponse, body) {
+      console.log(err);
+      console.log("err");
       console.log(body);
-      res.json(JSON.parse(JSON.parse(body)));
+      if (body !== "") {
+        console.log("In body");
+        res.json(JSON.parse(JSON.parse(body)));
+      } else {
+        console.log("In else");
+        res.json({
+          value: false
+        })
+      }
+      // res.json(JSON.parse(JSON.parse(body)));
     });
   },
 

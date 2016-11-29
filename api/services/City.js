@@ -38,6 +38,10 @@ var schema = new Schema({
     type: String,
     default: ""
   },
+  logo: {
+    type: String,
+    default: ""
+  },
   pdf: {
     type: String,
     default: ""
@@ -47,13 +51,13 @@ var schema = new Schema({
 
 module.exports = mongoose.model('City', schema);
 var models = {
-  saveData: function(data, callback) {
+  saveData: function (data, callback) {
     var city = this(data);
     city.timestamp = new Date();
     if (data._id) {
       this.findOneAndUpdate({
         _id: data._id
-      }, data).exec(function(err, updated) {
+      }, data).exec(function (err, updated) {
         if (err) {
           console.log(err);
           callback(err, null);
@@ -64,7 +68,7 @@ var models = {
         }
       });
     } else {
-      city.save(function(err, created) {
+      city.save(function (err, created) {
         if (err) {
           callback(err, null);
         } else if (created) {
@@ -75,10 +79,10 @@ var models = {
       });
     }
   },
-  deleteData: function(data, callback) {
+  deleteData: function (data, callback) {
     this.findOneAndRemove({
       _id: data._id
-    }, function(err, deleted) {
+    }, function (err, deleted) {
       if (err) {
         callback(err, null);
       } else if (deleted) {
@@ -88,8 +92,8 @@ var models = {
       }
     });
   },
-  getAll: function(data, callback) {
-    this.find({}).exec(function(err, found) {
+  getAll: function (data, callback) {
+    this.find({}).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
@@ -100,10 +104,10 @@ var models = {
       }
     });
   },
-  getAllCityByOrder: function(data, callback) {
+  getAllCityByOrder: function (data, callback) {
     this.find({}).sort({
       order: -1
-    }).exec(function(err, found) {
+    }).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
@@ -114,10 +118,10 @@ var models = {
       }
     });
   },
-  getOne: function(data, callback) {
+  getOne: function (data, callback) {
     this.findOne({
       "_id": data._id
-    }).exec(function(err, found) {
+    }).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
@@ -128,19 +132,19 @@ var models = {
       }
     });
   },
-  findLimited: function(data, callback) {
+  findLimited: function (data, callback) {
     var newreturns = {};
     newreturns.data = [];
     var check = new RegExp(data.search, "i");
     data.pagenumber = parseInt(data.pagenumber);
     data.pagesize = parseInt(data.pagesize);
     async.parallel([
-        function(callback) {
+        function (callback) {
           City.count({
             name: {
               '$regex': check
             }
-          }).exec(function(err, number) {
+          }).exec(function (err, number) {
             if (err) {
               console.log(err);
               callback(err, null);
@@ -153,12 +157,12 @@ var models = {
             }
           });
         },
-        function(callback) {
+        function (callback) {
           City.find({
             name: {
               '$regex': check
             }
-          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function(err, data2) {
+          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function (err, data2) {
             if (err) {
               console.log(err);
               callback(err, null);
@@ -171,7 +175,7 @@ var models = {
           });
         }
       ],
-      function(err, data4) {
+      function (err, data4) {
         if (err) {
           console.log(err);
           callback(err, null);

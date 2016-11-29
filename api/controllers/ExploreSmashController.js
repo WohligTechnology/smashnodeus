@@ -172,6 +172,39 @@ module.exports = {
       });
     }
   },
+  getAllEventsForApp: function (req, res) {
+
+    if (req.body) {
+      ExploreSmash.getAllEventsForApp(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+  getAllTournaments: function (req, res) {
+
+    if (req.body) {
+      ExploreSmash.getAllTournaments(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+  getAllChallenges: function (req, res) {
+
+    if (req.body) {
+      ExploreSmash.getAllChallenges(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
   getAllForDropDown: function (req, res) {
     function callback(err, data) {
       Global.response(err, data, res);

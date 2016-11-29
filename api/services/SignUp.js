@@ -1,32 +1,35 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var objectid = require("mongodb").ObjectId;
-var uniqueValidator = require('mongoose-unique-validator');
 var SendGrid = require('sendgrid').SendGrid;
 var md5 = require('md5');
 var schema = new Schema({
-  name: {
-    type: String,
-    default: ""
-  },
-  email: {
-    type: String,
-    default: "",
-    unique: true
-  },
-  password: {
-    type: String,
-    default: ""
-  },
-  mobile: {
-    type: String,
-    default: ""
-  },
+  // name: {
+  //   type: String,
+  //   default: ""
+  // },
+  // email: {
+  //   type: String,
+  //   default: ""
+  // },
+  // password: {
+  //   type: String,
+  //   default: ""
+  // },
+  // mobile: {
+  //   type: String,
+  //   default: ""
+  // },
   city: {
     type: Schema.Types.ObjectId,
     ref: 'City',
     index: true
   },
+  // address: {
+  //   type: Schema.Types.ObjectId,
+  //   ref: 'City',
+  //   index: true
+  // },
   cart: [{
     exploresmash: {
       type: Schema.Types.ObjectId,
@@ -59,14 +62,18 @@ var schema = new Schema({
     type: String,
     enum: ["Male", "Female"]
   },
+  OrderNo: {
+    type: String,
+    default: ""
+  },
   K120K200: {
     type: String,
     default: ""
   },
-  status: {
-    type: Boolean,
-    default: false
-  },
+  // status: {
+  //   type: Boolean,
+  //   default: false
+  // },
   pincode: {
     type: Number,
     default: ""
@@ -74,6 +81,10 @@ var schema = new Schema({
   dob: {
     type: Date,
     default: Date.now
+  },
+  anniversary: {
+    type: Date,
+    default: ""
   },
   timestamp: {
     type: Date,
@@ -98,9 +109,37 @@ var schema = new Schema({
   oauthLogin: {
     socialId: String,
     socialProvider: String
-  }
+  },
+  CustomerName: {
+    type: String,
+    default: ""
+  },
+  CustomerEmail: {
+    type: String,
+    default: ""
+  },
+  CustomerMobile: {
+    type: String,
+    default: ""
+  },
+  CustomerPhoneNo: {
+    type: Number,
+    default: ""
+  },
+  CustomerAddress: {
+    type: Schema.Types.ObjectId,
+    ref: 'City',
+    index: true
+  },
+  CustomerPassword: {
+    type: String,
+    default: ""
+  },
+  CustomerID: {
+    type: String,
+    default: ""
+  },
 });
-schema.plugin(uniqueValidator);
 
 module.exports = mongoose.model('SignUp', schema);
 var models = {
@@ -144,7 +183,28 @@ var models = {
       });
     }
   },
-
+  CustomerRegistration: function (data, api, smaaashResponse, callback) {
+    var foundObj = {};
+    var signup = this(data);
+    signup.password = md5(signup.password);
+    signup.CustomerPassword = md5(signup.CustomerPassword);
+    signup.CustomerID = smaaashResponse.Registration[0].CustomerID;
+    console.log(signup);
+    signup.save(function (err, created) {
+      if (err) {
+        console.log("in err");
+        console.log(err);
+        callback(err, null);
+      } else if (created) {
+        var foundObj = created.toObject();
+        delete foundObj.password;
+        delete foundObj.CustomerPassword;
+        callback(null, foundObj);
+      } else {
+        callback(null, {});
+      }
+    });
+  },
   deleteData: function (data, callback) {
     this.findOneAndRemove({
       _id: data._id
@@ -158,26 +218,29 @@ var models = {
       }
     });
   },
-  demo: function (data, callback) {
-    sails.renderView('email/index', {
-      name: "Pooja",
-      lastname: "Thakre",
-      hobbies: ["cricket", "name", "email", "phone"]
-    }, function (err, res) {
+  VerifyCustomerLoginWeb: function (data, callback) {
+    this.findOne({
+      CustomerMobile: data.UserName,
+      CustomerPassword: md5(data.Password)
+    }, function (err, updated) {
       if (err) {
         callback(err, null);
-      } else if (res) {
-        callback(null, res);
+      } else if (updated) {
+        var newreturns = updated.toObject();
+        delete newreturns.CustomerPassword;
+        callback(null, newreturns);
       } else {
-        callback(null, {});
+        callback({
+          message: "Incorrect credentials"
+        }, null);
       }
-
-
     });
   },
-  addToCart: function (data, callback) {
+  addToCart: function (smaaashdata, apiData, callback) {
+    console.log(smaaashdata);
+    console.log(apiData);
     this.update({
-        _id: data.user
+        _id: data._id
       }, {
         $push: {
           cart: data.cart
@@ -355,50 +418,68 @@ var models = {
       }
     });
   },
-  forgotPassword: function (data, callback) {
-    this.findOne({
-      email: data.email
+  getUserDetails: function (data, callback) {
+    var foundObj = {};
+    SignUp.findOne({
+      CustomerMobile: data.VerifyCustomerLogin[0].CustMobile,
+      CustomerID: data.VerifyCustomerLogin[0].CustId
     }).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
       } else if (found) {
-        var obj = {};
-        obj.name = found.name;
-        obj.email = found.email;
-        obj.id = found._id;
-        obj.link = 'http://tingdom.in/smaaash/#/reset/' + obj.id;
-        Email.sendMailWithoutObj(obj, 'forgotPassword', function (err, res) {
-          // Email.sendMail(created, function (err, res) {
-          if (err) {
-            callback(err, null);
-          } else if (res) {
-            callback(null, res);
-          } else {
-            callback(null, {});
-          }
-        });
-        // callback(null, found);
+        console.log(found);
+        var foundObj = found.toObject();
+        delete foundObj.password;
+        delete foundObj.CustomerPassword;
+        callback(null, foundObj);
       } else {
         callback(null, []);
       }
     });
   },
-  forgotPasswordSubmit: function (data, callback) {
-    this.findOneAndUpdate({
+  profile: function (data, callback) {
+    var foundObj = {};
+    SignUp.findOne({
+      _id: data._id
+    }).exec(function (err, found) {
+      if (err) {
+        console.log(err);
+        callback(err, null);
+      } else if (found) {
+        console.log(found);
+        var foundObj = found.toObject();
+        delete foundObj.password;
+        delete foundObj.CustomerPassword;
+        callback(null, foundObj);
+      } else {
+        callback(null, []);
+      }
+    });
+  },
+  updateProfile: function (data, callback) {
+    SignUp.findOneAndUpdate({
       _id: data._id
     }, {
-      password: md5(data.password)
-    }, function (err, data5) {
+      dob: data.dob,
+      gender: data.gender,
+      pincode: data.pincode,
+      profilePic: data.profilePic
+    }, {
+      new: true
+    }, function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
       } else {
-        callback(null, data5);
+        console.log(found);
+        var foundObj = found.toObject();
+        delete foundObj.password;
+        delete foundObj.CustomerPassword;
+        callback(null, foundObj);
       }
     });
   },
-
   getOne: function (data, callback) {
     var arr = [];
     var found = {};
@@ -422,6 +503,9 @@ var models = {
         callback(null, {});
       }
     });
+  },
+  returnUrlFunction: function (data, callback) {
+    console.log(data);
   },
   mobileLogin: function (data, callback) {
 
@@ -491,7 +575,9 @@ var models = {
           });
         },
         function (callback) {
-          SignUp.find(obj).populate('city').skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function (err, data2) {
+          SignUp.find(obj).populate('city').sort({
+            _id: -1
+          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function (err, data2) {
             if (err) {
               console.log(err);
               callback(err, null);

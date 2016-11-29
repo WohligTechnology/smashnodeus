@@ -45,6 +45,12 @@ mongoose.connect('mongodb://localhost:27017/smashusa', function (err) {
   sails.md5 = require("MD5");
   sails.json2xls = require("json2xls");
   sails.fs = require("fs");
+  sails.api = {
+    "APIKey": "afa35e6d32a54d64962a78ccf28c140017636054922421850805185"
+  };
+  sails.api2 = {
+    "APIkey": "afa35e6d32a54d64962a78ccf28c140017636054922421850805185"
+  };
   // Try to get `rc` dependency
   var rc;
   try {

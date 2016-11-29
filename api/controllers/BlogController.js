@@ -10,7 +10,6 @@ module.exports = {
       });
     }
   },
-
   getOne: function (req, res) {
 
     if (req.body) {
@@ -22,7 +21,26 @@ module.exports = {
       });
     }
   },
-
+  getDetailBlog: function (req, res) {
+    if (req.body._id) {
+      Blog.getDetailBlog(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+  getPopularBlog: function (req, res) {
+    if (req.body) {
+      Blog.getPopularBlog(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
   delete: function (req, res) {
     if (req.body) {
       Blog.deleteData(req.body, res.callback);
@@ -33,7 +51,6 @@ module.exports = {
       });
     }
   },
-
   getAll: function (req, res) {
     function callback(err, data) {
       Global.response(err, data, res);
