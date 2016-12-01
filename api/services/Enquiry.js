@@ -32,6 +32,11 @@ var schema = new Schema({
     type: String,
     default: ""
   },
+  hostAPartyType: {
+    type: Schema.Types.ObjectId,
+    ref: 'HostType',
+    index: true
+  },
   noOfPeople: {
     type: String,
     default: ""
@@ -128,6 +133,17 @@ var models = {
     var status = data.status;
     var fromDate = data.fromDate;
     var toDate = data.toDate;
+    if (data._id && data._id !== '') {
+      obj._id = {
+        "hostAPartyType": data._id
+      }
+    }
+    // if (data.status && data.status !== "") {
+    //   obj._id = {
+    //     "hostAPartyType": data._id
+    //   }
+    // }
+
     if (check != "/(?:)/i") {
       obj = {
         $or: [{
