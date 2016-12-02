@@ -411,6 +411,45 @@ module.exports = {
       });
     }
   },
+  GetCustomerBalance: function (req, res) {
+    if (req.body.MobileNo && req.body.MobileNo !== "" && req.body.CardNo && req.body.CardNo !== "") {
+      var api = sails.api1;
+      api = _.assign(api, req.body);
+      request({
+        url: "http://apismaaash.itspl.net/SMAAASHAPI.svc/GetCustomerBalance",
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(api)
+      }, function (err, httpResponse, body) {
+        var smaaashResponse = JSON.parse(JSON.parse(body));
+        console.log(smaaashResponse);
+        if (smaaashResponse.CustomerBalance[0].Status == 1) {
+          res.json({
+            value: true,
+            data: smaaashResponse
+          });
+        } else if (smaaashResponse.CustomerBalance[0].Status == 0) {
+          res.json({
+            value: false,
+            data: smaaashResponse
+          });
+        } else {
+          res.json({
+            value: false,
+            data: "Something went wrong"
+          });
+        }
+
+      });
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
   VerifyCustomerLogin: function (req, res) {
     if (req.body.UserName && req.body.UserName !== "") {
       var api = sails.api;
