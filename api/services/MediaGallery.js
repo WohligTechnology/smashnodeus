@@ -25,18 +25,26 @@ var schema = new Schema({
   popupImage: {
     type: String,
     default: ""
-  }
+  },
+  title: {
+    type: String,
+    default: ""
+  },
+  text: {
+    type: String,
+    default: ""
+  },
 
 });
 
 module.exports = mongoose.model('MediaGallery', schema);
 var models = {
-  saveData: function(data, callback) {
+  saveData: function (data, callback) {
     var MediaGallery = this(data);
     if (data._id) {
       this.findOneAndUpdate({
         _id: data._id
-      }, data, function(err, data2) {
+      }, data, function (err, data2) {
         if (err) {
           callback(err, null);
         } else {
@@ -46,7 +54,7 @@ var models = {
     } else {
       MediaGallery.timestamp = new Date();
       MediaGallery.status = false;
-      MediaGallery.save(function(err, data2) {
+      MediaGallery.save(function (err, data2) {
         if (err) {
           callback(err, null);
         } else {
@@ -56,8 +64,8 @@ var models = {
     }
 
   },
-  getAll: function(data, callback) {
-    MediaGallery.find({}, {}, {}, function(err, deleted) {
+  getAll: function (data, callback) {
+    MediaGallery.find({}, {}, {}, function (err, deleted) {
       if (err) {
         callback(err, null);
       } else {
@@ -65,10 +73,12 @@ var models = {
       }
     });
   },
-  getAllMediaGallery: function(data, callback) {
+  getAllMediaGallery: function (data, callback) {
     this.find({
-      status:true
-    }).sort({order:-1}).exec(function(err, found) {
+      status: true
+    }).sort({
+      order: -1
+    }).exec(function (err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
@@ -79,10 +89,10 @@ var models = {
       }
     });
   },
-  deleteData: function(data, callback) {
+  deleteData: function (data, callback) {
     MediaGallery.findOneAndRemove({
       _id: data._id
-    }, function(err, deleted) {
+    }, function (err, deleted) {
       if (err) {
         callback(err, null);
       } else {
@@ -90,8 +100,8 @@ var models = {
       }
     });
   },
-  deleteAll: function(data, callback) {
-    MediaGallery.remove({}, function(err, deleted) {
+  deleteAll: function (data, callback) {
+    MediaGallery.remove({}, function (err, deleted) {
       if (err) {
         callback(err, null);
       } else {
@@ -99,10 +109,10 @@ var models = {
       }
     });
   },
-  getOne: function(data, callback) {
+  getOne: function (data, callback) {
     MediaGallery.findOne({
       _id: data._id
-    }, function(err, deleted) {
+    }, function (err, deleted) {
       if (err) {
         callback(err, null);
       } else {
@@ -115,15 +125,25 @@ var models = {
 
 
 
-  findLimited: function(data, callback) {
+  findLimited: function (data, callback) {
     var newreturns = {};
     newreturns.data = [];
     var check = new RegExp(data.search, "i");
     data.pagenumber = parseInt(data.pagenumber);
     data.pagesize = parseInt(data.pagesize);
     async.parallel([
-        function(callback) {
-          MediaGallery.count().exec(function(err, number) {
+        function (callback) {
+          MediaGallery.count({
+            $or: [{
+              title: {
+                '$regex': check
+              }
+            }, {
+              text: {
+                '$regex': check
+              }
+            }]
+          }).exec(function (err, number) {
             if (err) {
               console.log(err);
               callback(err, null);
@@ -136,8 +156,18 @@ var models = {
             }
           });
         },
-        function(callback) {
-          MediaGallery.find().skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function(err, data2) {
+        function (callback) {
+          MediaGallery.find({
+            $or: [{
+              title: {
+                '$regex': check
+              }
+            }, {
+              text: {
+                '$regex': check
+              }
+            }]
+          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function (err, data2) {
             if (err) {
               console.log(err);
               callback(err, null);
@@ -150,7 +180,7 @@ var models = {
           });
         }
       ],
-      function(err, data4) {
+      function (err, data4) {
         if (err) {
           console.log(err);
           callback(err, null);
