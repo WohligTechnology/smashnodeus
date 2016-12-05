@@ -534,7 +534,22 @@ module.exports = {
     }
   },
   returnUrlFunction: function (req, res) {
-    SignUp.returnUrlFunction(req.body, res.callback);
+    if (req.body.Status == 1) {
+      var successUrl = "http://tingdom.in/smaaashusa/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      res.redirect(successUrl);
+    } else {
+      var failureUrl = "http://tingdom.in/smaaashusa/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      res.redirect(failureUrl);
+    }
+  },
+  returnUrlFunctionForMobile: function (req, res) {
+    if (req.body.Status == 1) {
+      var successUrl = "http://tingdom.in/smaaashusa/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      res.redirect(successUrl);
+    } else {
+      var failureUrl = "http://tingdom.in/smaaashusa/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      res.redirect(failureUrl);
+    }
   },
   CustomerResetPassword: function (req, res) {
     if (req.body.CustomerID && req.body.CustomerID !== '' && req.body.OldPassword && req.body.OldPassword !== '' && req.body.NewPassword && req.body.NewPassword !== '') {
