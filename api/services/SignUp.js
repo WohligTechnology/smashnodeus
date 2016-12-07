@@ -186,8 +186,8 @@ var models = {
   CustomerRegistration: function (data, api, smaaashResponse, callback) {
     var foundObj = {};
     var signup = this(data);
-    signup.password = md5(signup.password);
-    signup.CustomerPassword = md5(signup.CustomerPassword);
+    // signup.password = md5(signup.password);
+    // signup.CustomerPassword = md5(signup.CustomerPassword);
     signup.CustomerID = smaaashResponse.Registration[0].CustomerID;
     console.log(signup);
     signup.save(function (err, created) {
