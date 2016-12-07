@@ -4,8 +4,8 @@ var Schema = mongoose.Schema;
 var schema = new Schema({
 
   order: {
-    type: String,
-    default: ""
+    type: Number,
+    default: 0
   },
   image: {
     type: String,
