@@ -176,7 +176,8 @@ var models = {
   getAllSliderByOrder: function (data, callback) {
     this.find({
       city: data.city,
-      type: 1
+      type: 1,
+      status: true
     }).sort({
       order: -1
     }).exec(function (err, found) {
