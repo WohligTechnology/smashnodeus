@@ -11,6 +11,10 @@ var schema = new Schema({
     type: String,
     default: ""
   },
+  appImage: {
+    type: String,
+    default: ""
+  },
   type: {
     type: String,
     default: ""

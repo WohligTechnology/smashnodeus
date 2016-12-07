@@ -592,6 +592,8 @@ var models = {
     this.find({
       isHome: true,
       city: data.city
+    }).sort({
+      order: -1
     }).populate('type').exec(function (err, found) {
       if (err) {
         console.log(err);
