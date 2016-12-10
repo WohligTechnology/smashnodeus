@@ -540,11 +540,19 @@ module.exports = {
   },
   returnUrlFunction: function (req, res) {
     if (req.body.Status == 1) {
-      var successUrl = "http://tingdom.in/smaaashusa/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
-      res.redirect(successUrl);
+      res.json({
+        value: true,
+        data: req.body
+      });
+      // var successUrl = "http://tingdom.in/smaaashusa/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      // res.redirect(successUrl);
     } else {
-      var failureUrl = "http://tingdom.in/smaaashusa/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
-      res.redirect(failureUrl);
+      res.json({
+        value: false,
+        data: req.body
+      });
+      // var failureUrl = "http://tingdom.in/smaaashusa/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      // res.redirect(failureUrl);
     }
   },
   returnUrlFunctionForMobile: function (req, res) {
