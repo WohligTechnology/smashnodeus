@@ -515,8 +515,9 @@ module.exports = {
         body: JSON.stringify(api)
       }, function (err, httpResponse, body) {
         var smaaashResponse = JSON.parse(JSON.parse(body));
-        if (smaaashResponse.RechargeCard.RechargeCard[0].Status == 1) {
-          var link = smaaashResponse.RechargeCard.RechargeCard[0].Link;
+        console.log(smaaashResponse);
+        if (smaaashResponse.RechargeCard[0].Status == 1) {
+          var link = smaaashResponse.RechargeCard[0].Link;
           res.redirect(link);
         } else {
           res.json({
