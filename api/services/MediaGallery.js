@@ -34,6 +34,10 @@ var schema = new Schema({
     type: String,
     default: ""
   },
+  externalLink: {
+    type: String,
+    default: ""
+  },
 
 });
 
