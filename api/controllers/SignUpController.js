@@ -517,8 +517,12 @@ module.exports = {
         var smaaashResponse = JSON.parse(JSON.parse(body));
         console.log(smaaashResponse);
         if (smaaashResponse.RechargeCard[0].Status == 1) {
-          var link = smaaashResponse.RechargeCard[0].Link;
-          res.redirect(link);
+          // var link = smaaashResponse.RechargeCard[0].Link;
+          // res.redirect(link);
+          res.json({
+            value: true,
+            data: smaaashResponse
+          });
         } else {
           res.json({
             value: false,
