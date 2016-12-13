@@ -514,6 +514,7 @@ module.exports = {
         },
         body: JSON.stringify(api)
       }, function (err, httpResponse, body) {
+        console.log(api);
         var smaaashResponse = JSON.parse(JSON.parse(body));
         console.log(smaaashResponse);
         if (smaaashResponse.RechargeCard[0].Status == 1) {
