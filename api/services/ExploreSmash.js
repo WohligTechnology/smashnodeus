@@ -18,7 +18,7 @@ var schema = new Schema({
     index: true
   }],
   order: {
-    type: String,
+    type: Number,
     default: ""
   },
   text: {
