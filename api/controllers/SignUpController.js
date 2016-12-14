@@ -518,12 +518,24 @@ module.exports = {
         var smaaashResponse = JSON.parse(JSON.parse(body));
         console.log(smaaashResponse);
         if (smaaashResponse.RechargeCard[0].Status == 1) {
-          // var link = smaaashResponse.RechargeCard[0].Link;
-          // res.redirect(link);
-          res.json({
-            value: true,
-            data: smaaashResponse
-          });
+          var Orders ={};
+          Orders.customerID=req.body.CustomerID;
+          Orders.orderno=smaaashResponse.RechargeCard[0].OrderNo;
+          // call save api
+          function callback (err,newdata){
+            if(err){
+                res.json({
+                value: false,
+                data: err
+                });
+            }else{
+                res.json({
+                value: true,
+                data: smaaashResponse
+                });
+            }
+          }
+             Order.saveData(Orders, callback);
         } else {
           res.json({
             value: false,
@@ -550,15 +562,44 @@ module.exports = {
   },
   returnUrlFunctionForMobile: function (req, res) {
     if (req.body.Status == 1) {
-      res.json({
-        value: true,
-        data: req.body
-      });
+          // update order id details
+        Order.findOneAndUpdate({
+          orderno: req.body.OrderNo
+        }, {
+          cnrno: req.body.CNR_No,
+          amount: req.body.PayAmount,
+          status: req.body.Status
+        }, {
+          new: true
+        }, function (err, found) {
+          if (err) {
+            console.log(err);
+            callback(err, null);
+          } else {
+            console.log("In success");
+            var successUrl = "http://wohlig.co.in/paisoapk/success.html";
+            // var successUrl = "http://wohlig.co.in/paisoapk/success.html/" + req.body.OrderNo;
+            res.redirect(successUrl);
+          }
+        });
     } else {
-      res.json({
-        value: false,
-        data: req.body
-      });
+            SignUp.findOneAndUpdate({
+            orderno: req.body.OrderNo
+          }, {
+            cnrno: req.body.CNR_No,
+            amount: req.body.PayAmount,
+            status: req.body.Status
+          }, {
+            new: true
+          }, function (err, found) {
+            if (err) {
+              console.log(err);
+              callback(err, null);
+            } else {
+                var failureUrl = "http://wohlig.co.in/paisoapk/fail.html/";
+                res.redirect(failureUrl);
+            }
+          });
     }
   },
   CustomerResetPassword: function (req, res) {
