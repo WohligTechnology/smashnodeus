@@ -43,7 +43,7 @@ var models = {
         }
       });
     } else {
-      Notification.save(function(err, created) {
+      notification.save(function(err, created) {
         if (err) {
           callback(err, null);
         } else if (created) {
