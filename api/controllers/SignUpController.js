@@ -560,30 +560,20 @@ module.exports = {
       res.redirect(failureUrl);
     }
   },
-  returnUrlFunctionForMobile: function (req, res) {
-    if (req.body.Status == 1) {
-          // update order id details
-        Order.findOneAndUpdate({
-          orderno: req.body.OrderNo
-        }, {
-          cnrno: req.body.CNR_No,
-          amount: req.body.PayAmount,
-          status: req.body.Status
-        }, {
-          new: true
-        }, function (err, found) {
-          if (err) {
-            console.log(err);
-            callback(err, null);
-          } else {
-            console.log("In success");
-            var successUrl = "http://wohlig.co.in/paisoapk/success.html";
-            // var successUrl = "http://wohlig.co.in/paisoapk/success.html/" + req.body.OrderNo;
-            res.redirect(successUrl);
-          }
-        });
+  getOrderDetails: function (req, res) {
+    if (req.body.orderid) {
+      Order.getOrderDetails(req.body, res.callback);
     } else {
-            SignUp.findOneAndUpdate({
+         res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+  returnUrlFunctionForMobile: function (req, res) {
+    if(req.body)
+    {
+          Order.findOneAndUpdate({
             orderno: req.body.OrderNo
           }, {
             cnrno: req.body.CNR_No,
@@ -596,10 +586,21 @@ module.exports = {
               console.log(err);
               callback(err, null);
             } else {
-                var failureUrl = "http://wohlig.co.in/paisoapk/fail.html/";
+              if(req.body.Status==1){
+                var successUrl = "http://wohlig.co.in/paisoapk/success.html?orderid=" + req.body.OrderNo;
+                res.redirect(successUrl);
+              }
+              else{
+                var failureUrl = "http://wohlig.co.in/paisoapk/fail.html?orderid=" + req.body.OrderNo;
                 res.redirect(failureUrl);
+              }
+          
             }
           });
+    }
+    else{
+       var failureUrl = "http://wohlig.co.in/paisoapk/fail.html?orderid=0";
+       res.redirect(failureUrl);
     }
   },
   CustomerResetPassword: function (req, res) {

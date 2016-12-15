@@ -40,7 +40,22 @@ var models = {
           callback(null, created);
         } 
       });
-    
+  },
+  getOrderDetails: function(data, callback) {
+            Order.findOne({
+          "orderno": data.orderid
+        }).exec(function (err, found) {
+          if (err) {
+            console.log(err);
+            callback(err, null);
+          } else if (found) {
+            callback(null, found);
+          } else {
+            callback(null, {
+              message: "data not found!"
+            });
+          }
+        });
   },
   deleteData: function(data, callback) {
     this.findOneAndRemove({
