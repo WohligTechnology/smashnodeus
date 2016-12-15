@@ -35,9 +35,7 @@ module.exports = {
   },
 
   getAll: function(req, res) {
-    function callback(err, data) {
-      Global.response(err, data, res);
-    }
+  
     if (req.body) {
       Notification.getAll(req.body, res.callback);
     } else {

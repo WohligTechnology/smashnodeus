@@ -68,7 +68,7 @@ var models = {
     });
   },
   getAll: function(data, callback) {
-    this.find({}).limit(5).exec(function(err, found) {
+    this.find({status:true}).sort({'_id': -1}).limit(5).exec(function(err, found) {
       if (err) {
         console.log(err);
         callback(err, null);
