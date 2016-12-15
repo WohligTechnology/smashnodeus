@@ -98,6 +98,11 @@ var schema = new Schema({
     type: String,
     default: ""
   },
+  notification: [{
+    type: Schema.Types.ObjectId,
+    ref: 'Notification',
+    index: true
+  }],
   avatar: {
     type: String,
     default: ""
@@ -215,6 +220,22 @@ var models = {
         callback(null, deleted);
       } else {
         callback(null, {});
+      }
+    });
+  },
+  getUserNotification: function (data, callback) {
+    this.findOne({
+      _id: data.userid
+    }, {
+      notification: 1
+    }).populate('notification').limit(5).exec(function (err, found) {
+      if (err) {
+        console.log(err);
+        callback(err, null);
+      } else if (found) {
+        callback(null, found);
+      } else {
+        callback(null, []);
       }
     });
   },

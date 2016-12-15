@@ -1,6 +1,6 @@
 module.exports = {
 
-  save: function(req, res) {
+  save: function (req, res) {
     if (req.body) {
       Notification.saveData(req.body, res.callback);
     } else {
@@ -11,7 +11,7 @@ module.exports = {
     }
   },
 
-  getOne: function(req, res) {
+  getOne: function (req, res) {
 
     if (req.body) {
       Notification.getOne(req.body, res.callback);
@@ -23,7 +23,8 @@ module.exports = {
     }
   },
 
-  delete: function(req, res) {
+
+  delete: function (req, res) {
     if (req.body) {
       Notification.deleteData(req.body, res.callback);
     } else {
@@ -33,9 +34,21 @@ module.exports = {
       });
     }
   },
+  removeNotification: function (req, res) {
+    console.log(req.body);
+    if (req.body._id && req.body._id !== '' && req.body.userid && req.body.userid !== '') {
 
-  getAll: function(req, res) {
-  
+      Notification.removeNotification(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+
+  getAll: function (req, res) {
+
     if (req.body) {
       Notification.getAll(req.body, res.callback);
     } else {
@@ -46,7 +59,7 @@ module.exports = {
     }
   },
 
-  findLimited: function(req, res) {
+  findLimited: function (req, res) {
     if (req.body) {
       if (req.body.pagenumber && req.body.pagenumber !== "" && req.body.pagesize && req.body.pagesize !== "") {
         Notification.findLimited(req.body, res.callback);
@@ -63,7 +76,7 @@ module.exports = {
       });
     }
   },
-  findLimitedForBackend: function(req, res) {
+  findLimitedForBackend: function (req, res) {
     if (req.body) {
       if (req.body.pagenumber && req.body.pagenumber !== "" && req.body.pagesize && req.body.pagesize !== "") {
         Notification.findLimitedForBackend(req.body, res.callback);
