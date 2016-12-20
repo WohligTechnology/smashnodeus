@@ -6,17 +6,17 @@
  */
 
 module.exports = {
-    index: function(req, res) {
+    index: function (req, res) {
         function callback2(err) {
             Config.GlobalCallback(err, fileNames, res);
         }
         var fileNames = [];
         req.file("file").upload({
-            maxBytes: 10000000 // 10 MB Storage 1 MB = 10^6
-        }, function(err, uploadedFile) {
+            maxBytes: 50000000 // 10 MB Storage 1 MB = 10^6
+        }, function (err, uploadedFile) {
             if (uploadedFile && uploadedFile.length > 0) {
-                async.each(uploadedFile, function(n, callback) {
-                    Config.uploadFile(n.fd, function(err, value) {
+                async.each(uploadedFile, function (n, callback) {
+                    Config.uploadFile(n.fd, function (err, value) {
                         if (err) {
                             callback(err);
                         } else {
@@ -33,7 +33,7 @@ module.exports = {
             }
         });
     },
-    readFile: function(req, res) {
+    readFile: function (req, res) {
         Config.readUploaded(req.query.file, req.query.width, req.query.height, req.query.style, res);
     }
 };
