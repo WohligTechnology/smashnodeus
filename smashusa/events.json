@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("5780aeb0e14adf60072eabf8"), 
+    "registration" : [
+        {
+            "_id" : ObjectId("5780e313e57fc46a0d5c1e48"), 
+            "dob" : "", 
+            "phone" : "2344", 
+            "email" : "pooja@wohlig.com", 
+            "name" : "pooja"
+        }, 
+        {
+            "_id" : ObjectId("5780e580e57fc46a0d5c1e49"), 
+            "dob" : "", 
+            "phone" : "022154786956", 
+            "email" : "wohlig@wohlig.com", 
+            "name" : "wohlig"
+        }
+    ], 
+    "team" : "teammmm", 
+    "rule" : "rulessss", 
+    "schedule" : "schsss", 
+    "prize" : "prizessss", 
+    "order" : "2", 
+    "description" : "desc", 
+    "image" : "5780aea9e14adf60072eabf0.png", 
+    "title" : "demo event", 
+    "__v" : NumberInt(0)
+}

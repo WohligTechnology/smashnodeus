@@ -1,0 +1,69 @@
+{ 
+    "_id" : ObjectId("577f4d106b78e0bc03724800"), 
+    "twitter" : "twi hashtag", 
+    "facebook" : "fb hashtag", 
+    "instagram" : "insta hashtag", 
+    "image" : "57975ca8db98c8fd0fde31e2.png", 
+    "order" : "1", 
+    "name" : "Mumbai", 
+    "__v" : NumberInt(0), 
+    "BranchID" : "12", 
+    "BranchName" : "Smaaash Mumbai", 
+    "Photo" : "http://ent.itspl.net/Upload/Branch/521641720_Mumbai.jpg", 
+    "pdf" : "", 
+    "logo" : "5832fa9c62db689b42f8ba2e.png"
+}
+{ 
+    "_id" : ObjectId("577f4d1c6b78e0bc03724801"), 
+    "twitter" : "twi hashtag", 
+    "facebook" : "fb hashtag", 
+    "instagram" : "insta hashtag", 
+    "image" : "57975cb3db98c8fd0fde31eb.png", 
+    "order" : "2", 
+    "name" : "Bengaluru", 
+    "__v" : NumberInt(0), 
+    "BranchID" : "15", 
+    "BranchName" : "Smaaash Bengaluru", 
+    "Photo" : "http://ent.itspl.net/Upload/Branch/143438502_Bengaluru.jpg"
+}
+{ 
+    "_id" : ObjectId("577f4d246b78e0bc03724802"), 
+    "twitter" : "twi hashtag", 
+    "facebook" : "fb hashtag", 
+    "instagram" : "insta hashtag", 
+    "image" : "57975cc1db98c8fd0fde31f4.png", 
+    "order" : "3", 
+    "name" : "Gurgaon", 
+    "__v" : NumberInt(0), 
+    "BranchID" : "14", 
+    "BranchName" : "Smaaash Gurgaon", 
+    "Photo" : "http://ent.itspl.net/Upload/Branch/678165973_Gurgaon.jpg"
+}
+{ 
+    "_id" : ObjectId("57808c9032b1d30b046dd48c"), 
+    "image" : "57975ccadb98c8fd0fde31fd.png", 
+    "twitter" : "twi shimla", 
+    "facebook" : "fb shimla", 
+    "instagram" : "insta shimla", 
+    "order" : "4", 
+    "name" : "Noida", 
+    "__v" : NumberInt(0), 
+    "BranchID" : "17", 
+    "BranchName" : "Smaaash Noida", 
+    "Photo" : "http://ent.itspl.net/Upload/Branch/1131451159_Noida.jpg"
+}
+{ 
+    "_id" : ObjectId("579b0d74fa72c24405ee0818"), 
+    "twitter" : "", 
+    "facebook" : "", 
+    "instagram" : "", 
+    "image" : "579b0d73fa72c24405ee0810.png", 
+    "order" : "5", 
+    "name" : "Hyderabad", 
+    "__v" : NumberInt(0), 
+    "BranchID" : "13", 
+    "BranchName" : "Smaaash Hyderabad", 
+    "Photo" : "http://ent.itspl.net/Upload/Branch/1982363119_Hyderabad.jpg", 
+    "logo" : "5832fb7462db689b42f8ba70.png", 
+    "pdf" : ""
+}

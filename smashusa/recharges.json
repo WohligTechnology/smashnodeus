@@ -1,0 +1,9 @@
+{ 
+    "_id" : ObjectId("5780974da713de8704be74a9"), 
+    "city" : ObjectId("577f4d1c6b78e0bc03724801"), 
+    "user" : ObjectId("57808be532b1d30b046dd483"), 
+    "name" : "Hey mama", 
+    "amount" : "500", 
+    "number" : "12", 
+    "__v" : NumberInt(0)
+}

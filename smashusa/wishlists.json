@@ -1,0 +1,897 @@
+{ 
+    "_id" : ObjectId("57bfe4e3ee37bb9471b5c916"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfe51dee37bb9471b5c919"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfe51eee37bb9471b5c91a"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfe51fee37bb9471b5c91b"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfe54bee37bb9471b5c91c"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfe5acee37bb9471b5c921"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfea6f6e9da3757d6edd3d"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfea716e9da3757d6edd3e"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfeaa26e9da3757d6edd3f"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfeae26e9da3757d6edd40"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfeb1e6e9da3757d6edd41"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfeb706e9da3757d6edd44"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bfeb716e9da3757d6edd45"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bffde36e9da3757d6ede0b"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bffde46e9da3757d6ede0c"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bffeb96e9da3757d6ede0f"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae56e9da3757d6ede44"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae66e9da3757d6ede45"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae76e9da3757d6ede46"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae76e9da3757d6ede47"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae76e9da3757d6ede48"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae76e9da3757d6ede49"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae76e9da3757d6ede4a"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae76e9da3757d6ede4b"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae86e9da3757d6ede4c"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00ae86e9da3757d6ede4d"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e6d6e9da3757d6edeb6"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e896e9da3757d6edeb7"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e896e9da3757d6edeb8"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e8a6e9da3757d6edeb9"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e8a6e9da3757d6edeba"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e8b6e9da3757d6edebb"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00e8b6e9da3757d6edebc"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f1b6e9da3757d6edec2"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f1c6e9da3757d6edec3"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f1c6e9da3757d6edec4"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f1c6e9da3757d6edec5"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f1d6e9da3757d6edec6"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f646e9da3757d6edece"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f696e9da3757d6edecf"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f6a6e9da3757d6eded0"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f6c6e9da3757d6eded1"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00f936e9da3757d6eded4"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00fc56e9da3757d6eded7"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c00fc66e9da3757d6eded8"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c0102d6e9da3757d6edeed"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c0102e6e9da3757d6edeee"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c018866e9da3757d6edf17"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c018876e9da3757d6edf18"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c018876e9da3757d6edf19"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c018886e9da3757d6edf1a"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c0188e6e9da3757d6edf1b"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c02dab6e9da3757d6ee0e8"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c02ddc6e9da3757d6ee0e9"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c02f0c6e9da3757d6ee0f2"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c02f0d6e9da3757d6ee0f3"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c02f1e6e9da3757d6ee0f4"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c02feb6e9da3757d6ee0f7"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c038dc6e9da3757d6ee18c"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c049e66e9da3757d6ee245"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c049e76e9da3757d6ee246"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57bfe8d76e9da3757d6edc86"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c3e989c91b77df2abf2c42"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c3e8f5c91b77df2abf2c2f"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c3e98cc91b77df2abf2c43"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c3e8f5c91b77df2abf2c2f"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c3e9e4c91b77df2abf2c63"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57c3e9c9c91b77df2abf2c54"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c3e9f0c91b77df2abf2c64"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57c3e9c9c91b77df2abf2c54"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40b2cc91b77df2abf2cd8"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40c01c91b77df2abf2cef"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40d30c91b77df2abf2cf0"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40d9bc91b77df2abf2cf5"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40d9fc91b77df2abf2cf6"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dc1c91b77df2abf2cf9"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dc3c91b77df2abf2cfa"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dc3c91b77df2abf2cfb"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dcac91b77df2abf2cfe"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dcbc91b77df2abf2cff"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dcbc91b77df2abf2d00"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40dcbc91b77df2abf2d01"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40e10c91b77df2abf2d08"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40e17c91b77df2abf2d09"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40e26c91b77df2abf2d0a"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40e69c91b77df2abf2d11"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40ed9c91b77df2abf2d16"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40ef2c91b77df2abf2d19"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40f09c91b77df2abf2d1a"), 
+    "exploresmash" : ObjectId("57c04a426e9da3757d6ee247"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40f45c91b77df2abf2d23"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c40fbfc91b77df2abf2d30"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c40a74c91b77df2abf2cba"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41caec91b77df2abf2e7c"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41cccc91b77df2abf2e7f"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41cecc91b77df2abf2e8f"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41cf4c91b77df2abf2e90"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41d00c91b77df2abf2e91"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41d2dc91b77df2abf2e95"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41d76c91b77df2abf2ea0"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41d8dc91b77df2abf2eb3"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c41f58c91b77df2abf2efc"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c41f37c91b77df2abf2ef9"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c42042c91b77df2abf2f07"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c421cac91b77df2abf2f3b"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c4219dc91b77df2abf2f29"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c42225c91b77df2abf2f61"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c4219dc91b77df2abf2f29"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c422e1c91b77df2abf2f89"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c4219dc91b77df2abf2f29"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c422f3c91b77df2abf2f8a"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "user" : ObjectId("57c4219dc91b77df2abf2f29"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c4254bc91b77df2abf2fcf"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c4219dc91b77df2abf2f29"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c42557c91b77df2abf2fde"), 
+    "exploresmash" : ObjectId("57bd50c0a86ee9fa6770d4e5"), 
+    "user" : ObjectId("57c4219dc91b77df2abf2f29"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c427ecc91b77df2abf307c"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "user" : ObjectId("57c41c82c91b77df2abf2e6c"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c44f61311dfe7329617e0f"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c44f38311dfe7329617e00"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c7c4ee214d5a1c10f7cb8a"), 
+    "exploresmash" : ObjectId("57c58cad214d5a1c10f7baca"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c822a1214d5a1c10f7cc3b"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c822e7214d5a1c10f7cc3c"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c823f3214d5a1c10f7cc3d"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c8262e214d5a1c10f7cc3e"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c8263f214d5a1c10f7cc3f"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c82713214d5a1c10f7cc40"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c82730214d5a1c10f7cc41"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c917b0214d5a1c10f7cec4"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c917b7214d5a1c10f7cec5"), 
+    "exploresmash" : ObjectId("57bd4dafa86ee9fa6770d47e"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c91a00214d5a1c10f7cede"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c95858214d5a1c10f7d473"), 
+    "exploresmash" : ObjectId("57c58d21214d5a1c10f7bb0c"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c95b52214d5a1c10f7d4fb"), 
+    "exploresmash" : ObjectId("57c04a426e9da3757d6ee247"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c965532f7d5b9571a5a3b2"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dbf4b2a19b6f17395cf61c"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dbf4cda19b6f17395cf61d"), 
+    "exploresmash" : ObjectId("57bd4d93a86ee9fa6770d475"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dbf4d6a19b6f17395cf61f"), 
+    "exploresmash" : ObjectId("57bd5103a86ee9fa6770d4ee"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dbf4eda19b6f17395cf626"), 
+    "exploresmash" : ObjectId("57c58cad214d5a1c10f7baca"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dfea41a19b6f17395cfb18"), 
+    "exploresmash" : ObjectId("57bd4d14a86ee9fa6770d468"), 
+    "user" : ObjectId("57dfea26a19b6f17395cfb14"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dfea6ba19b6f17395cfb19"), 
+    "exploresmash" : ObjectId("57bd4d14a86ee9fa6770d468"), 
+    "user" : ObjectId("57dfea26a19b6f17395cfb14"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dfea8ea19b6f17395cfb1a"), 
+    "exploresmash" : ObjectId("57bd4ccca86ee9fa6770d45e"), 
+    "user" : ObjectId("57dfea26a19b6f17395cfb14"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e535deb1042db723b02795"), 
+    "exploresmash" : ObjectId("57e0dedca19b6f17395cfd08"), 
+    "user" : ObjectId("57c7c1d0214d5a1c10f7cb42"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57ecc6ee6c34fa8065e25b7f"), 
+    "exploresmash" : ObjectId("57e0f595a19b6f17395d0140"), 
+    "user" : ObjectId("57eca4f56c34fa8065e24fe1"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57ed08496c34fa8065e26b35"), 
+    "exploresmash" : ObjectId("57e0e550a19b6f17395cfebc"), 
+    "user" : ObjectId("57ecfe0f6c34fa8065e268a5"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57ed08636c34fa8065e26b36"), 
+    "exploresmash" : ObjectId("57e0e550a19b6f17395cfebc"), 
+    "user" : ObjectId("57ecfe0f6c34fa8065e268a5"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "__v" : NumberInt(0)
+}

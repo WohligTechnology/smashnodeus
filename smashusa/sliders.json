@@ -1,0 +1,131 @@
+{ 
+    "_id" : ObjectId("57bebdbe9128cce631d3beee"), 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "type" : "1", 
+    "image" : "582462557c03654a0163979d.jpg", 
+    "order" : "1", 
+    "__v" : NumberInt(0), 
+    "title" : "test", 
+    "url" : "ssdf", 
+    "status" : true
+}
+{ 
+    "_id" : ObjectId("57eb965cf3facd093f0ca208"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "type" : "2", 
+    "image" : "58231c24ad4aa70d5137036f.jpg", 
+    "order" : "2", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57eb9679f3facd093f0ca235"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "type" : "2", 
+    "image" : "57f396f382694bcf283279a9.jpg", 
+    "order" : "3", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5821b7ac66c688f570cc058e"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "The All Rounder Package", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "type" : "2", 
+    "image" : "5821b79e66c688f570cc0585.jpg", 
+    "order" : "3", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5821b7e366c688f570cc05a1"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "Are You Game?", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "type" : "1", 
+    "image" : "58231d5fad4aa70d51370436.jpg", 
+    "order" : "6", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5821b80b66c688f570cc05ae"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "Beer @ 49", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "type" : "1", 
+    "image" : "582453047c03654a0163950b.jpg", 
+    "order" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5821b86566c688f570cc0614"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "Next Stop Ludhiana", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "type" : "1", 
+    "image" : "", 
+    "order" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("582463247c03654a016397c4"), 
+    "status" : true, 
+    "url" : "", 
+    "title" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "type" : "", 
+    "image" : "582462fb7c03654a016397b8.jpg", 
+    "order" : "", 
+    "__v" : NumberInt(0)
+}

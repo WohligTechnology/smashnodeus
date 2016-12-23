@@ -1,0 +1,54 @@
+{ 
+    "_id" : ObjectId("57bc4af6eb9c91f1025a3b4f"), 
+    "order" : "1", 
+    "name" : "What's new", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bc4b10eb9c91f1025a3b54"), 
+    "order" : "2", 
+    "name" : "Host a party", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "order" : "3", 
+    "name" : "Attraction", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "order" : "4", 
+    "name" : "Promotions", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "order" : "5", 
+    "name" : "Food and Beverages", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "order" : "6", 
+    "name" : "Deals and Packages", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bc4b75eb9c91f1025a3b59"), 
+    "order" : "7", 
+    "name" : "Corporate Event", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "order" : "8", 
+    "name" : "Events", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "order" : "9", 
+    "name" : "Buy Online", 
+    "__v" : NumberInt(0)
+}

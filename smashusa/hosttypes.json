@@ -1,0 +1,36 @@
+{ 
+    "_id" : ObjectId("57d6a027bd5eb9846074b418"), 
+    "order" : "1", 
+    "name" : "Wedding Parties", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57d6a09dbd5eb9846074b419"), 
+    "order" : "2", 
+    "name" : "Birthday Party", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e142483da62fae1dfc55f2"), 
+    "order" : "3", 
+    "name" : "Corporate Parties", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e142723da62fae1dfc5607"), 
+    "order" : "4", 
+    "name" : "Team Building Events", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e1429c3da62fae1dfc560c"), 
+    "order" : "5", 
+    "name" : "Kitty Parties", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e142c03da62fae1dfc560d"), 
+    "order" : "6", 
+    "name" : "Play Dates", 
+    "__v" : NumberInt(0)
+}

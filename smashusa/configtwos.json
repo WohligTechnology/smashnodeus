@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("57b82f08b898eec41934384a"), 
+    "url" : "GdNKsW-E_po", 
+    "__v" : NumberInt(0), 
+    "homebanner" : "57ee0e1c377e8daa4b82b5f4.jpg", 
+    "image1" : "", 
+    "image2" : "", 
+    "image3" : "", 
+    "image4" : "", 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "thumbnail" : "57ee0e1b377e8daa4b82b5ed.jpg", 
+    "videotitle" : "", 
+    "videourl" : "t_C37-P6g5Y"
+}

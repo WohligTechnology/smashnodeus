@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("57e1262fd32ecf3237dcf164"), 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "image" : "57e1262bd32ecf3237dcf15c.png", 
+    "status" : false, 
+    "order" : "1", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e12653d32ecf3237dcf17b"), 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "image" : "57e12680d32ecf3237dcf187.png", 
+    "status" : true, 
+    "order" : "3", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,4869 @@
+{ 
+    "_id" : ObjectId("57bd8f4b6c98787d37963c55"), 
+    "type" : ObjectId("57bc4af6eb9c91f1025a3b4f"), 
+    "hometext" : "STRIKE TO WIN", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "5823119aad4aa70d5136fc9e.jpg", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>This Monsoon, enjoy the rains Smaaash Style! Starting 1st July get all games at packages starting at only Rs. 899!This Monsoon, enjoy the rains Smaaash Style! Starting 1st July get all games at packages starting at only Rs. 899!This Monsoon, enjoy the rains Smaaash Style! Starting 1st July get all games at packages starting at only Rs. 899!This Monsoon, enjoy the rains Smaaash Style! Starting 1st July get all games at packages starting at only Rs. 899!This Monsoon, enjoy the rains Smaaash Style! Starting 1st July get all games at packages starting at only Rs. 899!</p>", 
+    "image" : "5823119aad4aa70d5136fc9e.jpg", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "mobileBanner" : "", 
+    "price" : null, 
+    "homeimage" : "582310ffad4aa70d5136fbfa.jpg", 
+    "status" : false, 
+    "gameType" : NumberInt(0), 
+    "multipleattraction" : [
+
+    ], 
+    "videoThumbnail" : "", 
+    "hostAPartyType" : "", 
+    "timingAndPricing" : "", 
+    "prize" : "", 
+    "schedule" : ""
+}
+{ 
+    "_id" : ObjectId("57d67ebb63a72422696d0e30"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+        {
+            "_id" : ObjectId("57e3e2185109bcdf465897d1"), 
+            "indicator" : "", 
+            "attraction" : [
+                ObjectId("57e515cdb1042db723b01bf0"), 
+                ObjectId("57e5161eb1042db723b01c1b")
+            ], 
+            "text" : "demooooo", 
+            "icon" : "57e52a03b1042db723b022cd.png"
+        }, 
+        {
+            "_id" : ObjectId("57e52a21b1042db723b022e0"), 
+            "indicator" : "", 
+            "attraction" : [
+                ObjectId("57e4dc45b1042db723b00f23")
+            ], 
+            "text" : "demoooooooooooo", 
+            "icon" : "57e52a1ab1042db723b022d8.png"
+        }
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(500), 
+    "hometext" : "Bomb Squad", 
+    "gamefor" : [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+        {
+            "_id" : ObjectId("57f3f3e95202d45a66bae2b0"), 
+            "order" : "", 
+            "image" : "57f3f3e75202d45a66bae2a6.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3f3f55202d45a66bae2b4"), 
+            "order" : "", 
+            "image" : ""
+        }, 
+        {
+            "_id" : ObjectId("57f3f4075202d45a66bae2bc"), 
+            "order" : "", 
+            "image" : ""
+        }, 
+        {
+            "_id" : ObjectId("57f3f4165202d45a66bae2c4"), 
+            "order" : "", 
+            "image" : ""
+        }
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>It&rsquo;s your steady hands versus a ticking time bomb at Bomb Squad &ndash; where you get to play the bomb-defusing daredevil. All you need to do is guide the bomb through a loop without touching the live wire. The people are counting on you to save the city, better keep that bomb disposal uniform ready!</p>", 
+    "image" : "57f366b712b2c02c2fbe78f8.png", 
+    "mobileBanner" : "57e0dab3a19b6f17395cfcb2.jpg", 
+    "banner" : "57d67e0363a72422696d0e18.jpg", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "hostAPartyType" : "", 
+    "timingAndPricing" : "<table class=\"MsoTableGrid\" style=\"border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 92.4pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt;\" valign=\"top\" width=\"123\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Gurgaon</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 92.4pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt;\" valign=\"top\" width=\"123\">\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">11:00am to 12:00am</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Monday to Thursday: Rs 50/-</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Friday to Sunday: Rs 50/-</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Note: 14.0% service tax would be chargeable in addition to the base price of the game.</p>\n</td>\n</tr>\n</tbody>\n</table>", 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57dcd7c5a19b6f17395cf7bd"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "<p class=\"MsoNormal\">Weekdays (Monday to Thursday): 12:30 PM - 1 AM</p>\n<p class=\"MsoNormal\">Prices: Rs. 400 (3 mins). Rs. 600 (6 mins). Rs. 700 (8 mins)</p>\n<p class=\"MsoNormal\">Weekends (Friday to Sunday): 11:00 AM - 1 AM</p>\n<p class=\"MsoNormal\">Prices: Rs. 500 (3 mins). Rs. 700 (6 mins). Rs. 900 (8 mins)</p>\n<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\"><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">Note: 15% service tax would be chargeable in addition to the base price of the game.</span>&nbsp;</p>", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+        {
+            "_id" : ObjectId("57e52f65b1042db723b024e1"), 
+            "indicator" : "", 
+            "attraction" : [
+                ObjectId("57e4f868b1042db723b01772"), 
+                ObjectId("57e3749abfa5730b5dd5c8ea"), 
+                ObjectId("57e517cfb1042db723b01c8a")
+            ], 
+            "text" : "happy hours", 
+            "icon" : "57e52f62b1042db723b024d9.png"
+        }, 
+        {
+            "_id" : ObjectId("57ee31daa3cb70fa051027f4"), 
+            "indicator" : "", 
+            "attraction" : [
+                ObjectId("57e13e364c8614a4029152fa"), 
+                ObjectId("57e3749abfa5730b5dd5c8ea"), 
+                ObjectId("57e51691b1042db723b01c53"), 
+                ObjectId("57e51a70b1042db723b01df0"), 
+                ObjectId("57e4f619b1042db723b0167b"), 
+                ObjectId("57e4f984b1042db723b017b6"), 
+                ObjectId("57e4f9f2b1042db723b017ec")
+            ], 
+            "text" : "demooooo", 
+            "icon" : "57f3ae6b5202d45a66bac09e.png"
+        }
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(399), 
+    "hometext" : "Sky Karting", 
+    "gamefor" : [
+        "1", 
+        "2"
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+        {
+            "_id" : ObjectId("57f3af115202d45a66bac185"), 
+            "order" : "3", 
+            "image" : "57f3af0d5202d45a66bac17b.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3af215202d45a66bac193"), 
+            "order" : "4", 
+            "image" : "57f3af1e5202d45a66bac189.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3af305202d45a66bac1a1"), 
+            "order" : "5", 
+            "image" : "57f3af2d5202d45a66bac197.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3af3f5202d45a66bac1af"), 
+            "order" : "6", 
+            "image" : "57f3af3c5202d45a66bac1a5.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3b07d5202d45a66bac379"), 
+            "order" : "1", 
+            "image" : "57f3b0785202d45a66bac36f.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3b08b5202d45a66bac387"), 
+            "order" : "2", 
+            "image" : "57f3b0875202d45a66bac37d.png"
+        }
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "<p>Test Event&nbsp;</p>", 
+    "promotion" : "promotion", 
+    "deal" : "Deals Text", 
+    "technology" : "<p>Technology&nbsp;</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p><span style=\"color: #7c7c7c; font-family: Oswald, sans-serif; font-size: 16.67px; text-align: justify;\">When it comes to racing, our all new Sky Karting track is literally on a different level. India's first multi-level Karting arena, the new racers' paradise brings to you a racing track by the renowned Protek Karting (Germany), the best electric Go-Karts in the world and the some award-winning safety technology. Time to get those suits ready!</span></p>", 
+    "image" : "5808756ddd1d05c867417d7a.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "57dcd6c3a19b6f17395cf79d.png", 
+    "text" : "", 
+    "order" : "1", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "kW90BAhhSNo", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0), 
+    "BranchPackageID" : NumberInt(0), 
+    "showBuyNow" : false
+}
+{ 
+    "_id" : ObjectId("57e0dedca19b6f17395cfd08"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "<p>Weekdays : 12.00 AM to 11 PM</p>\n<p>Weekends :&nbsp;11.00 AM to 11 PM</p>", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+        {
+            "_id" : ObjectId("57f3aecc5202d45a66bac153"), 
+            "indicator" : "", 
+            "attraction" : [
+                ObjectId("57e517cfb1042db723b01c8a"), 
+                ObjectId("57e51691b1042db723b01c53"), 
+                ObjectId("57e4f984b1042db723b017b6"), 
+                ObjectId("57e4f9f2b1042db723b017ec"), 
+                ObjectId("57e4f868b1042db723b01772"), 
+                ObjectId("57e5083eb1042db723b0196d"), 
+                ObjectId("57e3749abfa5730b5dd5c8ea"), 
+                ObjectId("57e37650bfa5730b5dd5c983")
+            ], 
+            "text" : "", 
+            "icon" : "57f3aec85202d45a66bac14b.png"
+        }
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(750), 
+    "hometext" : "Boxer Jock", 
+    "gamefor" : [
+        "1", 
+        "2", 
+        "3", 
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+        {
+            "_id" : ObjectId("57f3af615202d45a66bac1e2"), 
+            "order" : "1", 
+            "image" : "57f3af5f5202d45a66bac1cb.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3af6e5202d45a66bac202"), 
+            "order" : "2", 
+            "image" : "57f3af6b5202d45a66bac1f8.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3af885202d45a66bac222"), 
+            "order" : "3", 
+            "image" : "57f3af855202d45a66bac213.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3af9e5202d45a66bac26a"), 
+            "order" : "4", 
+            "image" : "57f3af9a5202d45a66bac260.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3afaf5202d45a66bac278"), 
+            "order" : "5", 
+            "image" : "57f3afab5202d45a66bac26e.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3afbb5202d45a66bac283"), 
+            "order" : "6", 
+            "image" : "57f3afb85202d45a66bac279.png"
+        }, 
+        {
+            "_id" : ObjectId("57f3b0a35202d45a66bac3b8"), 
+            "order" : "7", 
+            "image" : "57f3b09f5202d45a66bac3ae.png"
+        }
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "We have various deals for this attraction", 
+    "technology" : "<p>Latest Technology in Mechanics.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Put on some &lsquo;Eye of the Tiger&rsquo; as you prepare to throw some jabs at Boxer Jock. The newest addition to our range of immersive games offers you the chance to take on an opponent in the most grueling boxing match of your life. The ring is ready, make sure your big knockout punch is too. House waiting rules apply.</p>", 
+    "image" : "5808ca66f36d76d479e05400.png", 
+    "mobileBanner" : "57e0ff5ca19b6f17395d0349.png", 
+    "banner" : "57e0ddfea19b6f17395cfcf2.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0df7ea19b6f17395cfd40"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Cockpit 360", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">The enemies have launched a Kamikaze style attack on your city, the elite fighter pilots have been summoned to thwart enemies&rsquo; mission! You being an experienced pilot have to lead the fleet and kill the enemies. Cockpit 360 is a super real simulator which allows you to take control of your flight with hi-tech missiles and long range guns. Don&rsquo;t take the mission lightly, the sky will be full of rockets and shooters; so beware and be alert to take charge of your cavalry in the skies!</p>", 
+    "image" : "580875badd1d05c867417d9e.jpg", 
+    "mobileBanner" : "57e0df5ca19b6f17395cfd35.png", 
+    "banner" : "57e0df38a19b6f17395cfd26.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0e181a19b6f17395cfdd1"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Dodge Ball", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Put on your flexible suit and tie the laces on those lucky shoes as you try your hand at one of our classic games on offer &ndash; Dodge Ball. Your opponent will be a ball throwing machine and all you need to do to survive is to avoid being hit by the balls. Do you think you can dodge your way out of this situation?</p>", 
+    "image" : "580875eddd1d05c867417db8.jpg", 
+    "mobileBanner" : "57e0e162a19b6f17395cfdc9.png", 
+    "banner" : "57e0e15aa19b6f17395cfdbc.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0e2f7a19b6f17395cfe05"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Face Ronaldo", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : false, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>You&rsquo;ve watched the game with bated breath as he stood in his trademark style before taking a penalty. The tables have now been turned with Face Ronaldo. Put on your goalkeeping gloves and take your spot in front of the goal as the goal scoring machine called Cristiano Ronaldo gets ready to take his shot. Will you be the one to stop his shot?</p>", 
+    "image" : "57f3678d12b2c02c2fbe7a45.png", 
+    "mobileBanner" : "57e0e2c7a19b6f17395cfdfd.jpg", 
+    "banner" : "57e0e2bba19b6f17395cfdf5.jpg", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : ""
+}
+{ 
+    "_id" : ObjectId("57e0e3ada19b6f17395cfe30"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "<p>timings</p>", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Finger Coaster", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Find the most jaw-dropping and physics-challenging roller coasters at the end of your fingertips. Visit our latest addition to the Virtual Reality Zone &ndash; Finger Coaster and design the wackiest roller coaster ride you can think of. Our Oculus-based attraction will then take over so you can enjoy a roller coaster experience like never before. Hang on to your seats; this is going to be one crazy ride!</p>", 
+    "image" : "580888a3dd1d05c8674180f9.jpg", 
+    "mobileBanner" : "57e0e391a19b6f17395cfe25.png", 
+    "banner" : "57e0e385a19b6f17395cfe19.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0e494a19b6f17395cfe5b"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "FlyMax", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Get ready to spread your wings and have an aerial delight like never before! Adding a whole new dimension to virtual reality, FlyMax is one such simulated attraction that takes the thrill of extreme hang gliding to a whole new level. Giving you a life-like experience of flying, FlyMax will surely leave you asking for more!</p>", 
+    "image" : "580888dedd1d05c86741810c.jpg", 
+    "mobileBanner" : "57e0e477a19b6f17395cfe53.png", 
+    "banner" : "57e0e465a19b6f17395cfe47.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "VX9q9yUZA5w", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0), 
+    "BranchPackageID" : NumberInt(0), 
+    "showBuyNow" : false
+}
+{ 
+    "_id" : ObjectId("57e0e550a19b6f17395cfebc"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Nitro Wheelie", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Get down and dirty on the racing track with Nitro Wheelie &ndash; a dirt bike game based on a platform boasting of six degree freedom. So put on your racing helmets and try our different racing tracks while you score points and try to beat the highest scores. When it comes to experiencing a dirt race, nothing comes close to Nitro Wheelie.</p>", 
+    "image" : "580888fedd1d05c86741811e.jpg", 
+    "mobileBanner" : "57e0e543a19b6f17395cfeb4.png", 
+    "banner" : "57e0e502a19b6f17395cfe97.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0e72aa19b6f17395cff27"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "SMAAASH Cricket", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">Our precise technology not only replicates the bowler&rsquo;s action perfectly, but also the speed, spin and bounce they generate. The polyurethane ball feels like leather ball, yet safeguards the players from serious injuries. Our high-tech cameras track every move and even offer replays.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Take guard against the greatest bowling legends of cricket with SMAAASH Cricket &ndash; a one-of-its-kind 360 degree cricket simulator. Try to beat the field and experience what it&rsquo;s like to play inside a packed stadium, as our innovative technology perfectly replicates the bowling actions of your heroes. The rank turners and toe crushers await, are you game?</p>", 
+    "image" : "5808892bdd1d05c867418130.jpg", 
+    "mobileBanner" : "57e0e704a19b6f17395cff1e.png", 
+    "banner" : "57e0e6f0a19b6f17395cff10.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0e7fea19b6f17395cff5d"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Smart Arcade", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Experience time travel, in its most immersive and enjoyable form, by spending some time at our Smart Arcade. With vintage favourites like Pac Man, Air Hockey, Deal or No Deal and Simpson&rsquo;s Soccer, you&rsquo;ll never want to leave our time capsule. And if you enjoy the more conventional ones, there are also games like Connect 4 and Fruit Ninja. With over 25 classic and new games, where else would you rather be?</p>", 
+    "image" : "58088a1cdd1d05c867418156.jpg", 
+    "mobileBanner" : "57e0e7e1a19b6f17395cff55.png", 
+    "banner" : "57e0e7d3a19b6f17395cff48.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0e89aa19b6f17395cff91"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Super Keeper", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">With acceleration 17 times faster than a Formula 1 car, Goalie is the world&rsquo;s fastest goalkeeper. And its precision is courtesy the two cameras placed as its eyes, which can take up to 90 pictures per second.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Experience the drama, excitement and emotions of a penalty shootout, as you go one-on-one against our supersonic goalkeeper. At Super Keeper, it takes a lot more than mere skills to strike the ball to the back of the net. If you wish to score, we suggest you keep calm and wear your lucky football shoes. Our Goalie hates losing, how about you?</p>", 
+    "image" : "58088a65dd1d05c867418168.jpg", 
+    "mobileBanner" : "57e0e888a19b6f17395cff89.png", 
+    "banner" : "57e0e87ba19b6f17395cff7d.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0f471a19b6f17395d010c"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Trampoline park", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p>Bring your kids to spend some pent up energy at our super cool trampoline park! Let them bounce up and experience some high flying fun and see who can jump highest. Hear them giggle as they dive into our foam ball pit, or leap up high and shoot some basketball hoops. Our trampoline park is on a whole different level, and takes fun to new &lsquo;heights&rsquo;</p>", 
+    "image" : "58088a7bdd1d05c86741817a.jpg", 
+    "mobileBanner" : "57e0f42ca19b6f17395d0104.png", 
+    "banner" : "57e0f3bfa19b6f17395d00c9.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0f595a19b6f17395d0140"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Twilight Bowling", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Put on your bowling shoes, take aim at the bowling pins and experience an incomparable and unforgettable bowling experience. At your UV-lit bowling alley, the only thing you&rsquo;ll lose is the track of time. So play in perennial twilight and strike down your fury on the pins and the opponents, as you fall in love with bowling all over again.</p>", 
+    "image" : "58088aabdd1d05c86741818c.jpg", 
+    "mobileBanner" : "57e0f557a19b6f17395d0138.png", 
+    "banner" : "57e0f53ba19b6f17395d012c.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0f6a8a19b6f17395d0168"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Vulcan Force", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">The gun used here is a replica of a turret Vulcan - you would normally see this mounted on a chopper or jeep, or in the hands or Rambo or Arnold Schwarzenegger. Using an HMD connected to positional tracking systems, you will actually experience shooting from a helicopter with a gun, destroying your enemies at 3000 bullets per minute.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Experience a rush of adrenaline as you enjoy an aircraft battle, bringing down enemy aircrafts, using a gun that shoots 3000 bullets per minute! Using Virtual Reality technology, a helicopter cockpit is simulated, allowing you to experience a gritty war in the sky.&nbsp;</p>", 
+    "image" : "57f37ec882694bcf283270de.png", 
+    "mobileBanner" : "57e0f65ba19b6f17395d0160.png", 
+    "banner" : "57e0f62ca19b6f17395d0153.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818"), 
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0f792a19b6f17395d0191"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "W.A.R Paintball", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">Along with offering an array of replica guns like MP5 sub-machine gun, M16 assault rifles and M17 sniper rifles, W.A.R Paintball is also the city's largest air-conditioned indoor paintball arena.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Paint your opponents in the colour of defeat as you experience the adrenaline of battlefield action with military replicas guns like MP5 sub-machine gun, M16 assault rifles and M17 sniper rifles. With scenarios like Team Elimination, Capture the Flag, Conquest, Protect the VIP and more, it is time to pick up your guns and prepare for an all-out assault, soldier!</p>", 
+    "image" : "58088ba2dd1d05c8674181a4.jpg", 
+    "mobileBanner" : "57e0f76fa19b6f17395d0188.png", 
+    "banner" : "57e0f761a19b6f17395d017c.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0f844a19b6f17395d01bf"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Walk The Plank", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">Bringing Immersive Gaming to a whole new level. The technology behind this game is cinematic. You immerse yourself in the game with the Virtual Reality, the Unity Game engine delivers the thrill of crossing a 100 ft building just on a 6 inches plank.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Experience Virtual Reality as it takes the thrill quotient several notches higher. A dizzying 50 feet fall on either sides and villainous monsters in your way. The only thing between you and death is a narrow plank. You will make it to the other side only if you can fight fear and vertigo at the same time.&nbsp;</p>", 
+    "image" : "58088be0dd1d05c8674181b6.jpg", 
+    "mobileBanner" : "57e0f828a19b6f17395d01b6.png", 
+    "banner" : "57e0f818a19b6f17395d01a8.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0f8e2a19b6f17395d01e3"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "War on Wheels", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Team up with mates you can trust on the battlefield and form the most destructive zombie-killing team on four wheels at War on Wheels. Whether you are handling the guns or driving the rugged 4x4 Jeep, make sure it&rsquo;s the enemy that is doing the running away in this 360 degree virtual reality treat. A war awaits, are you ready with your team?&nbsp;</p>", 
+    "image" : "58088c10dd1d05c8674181c6.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "57e0f8a3a19b6f17395d01d7.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0fa8da19b6f17395d0232"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "X2 Motor Racing Simulator", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">Our six degrees of freedom (6-DOF), coupled with in-loop driver and hardware, and motion-based simulators known for their realism and accuracy, deliver an unparalleled driving experience.</p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Experience the pulsating action of a Grand Prix, not from the seats in the stands but from the driver&rsquo;s seat, with F1 Motion Simulator. So put on the racing gear and drive around some historic tracks, feeling the heat and the bumps, as we blur the lines between racing and reality. Remember, our F1 Simulator is for racers, not the gamers. May G-force be with you!</p>", 
+    "image" : "58088c39dd1d05c8674181d8.jpg", 
+    "mobileBanner" : "57e0fa66a19b6f17395d022a.png", 
+    "banner" : "57e0fa4da19b6f17395d021d.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e0fc1ea19b6f17395d027b"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "Zipline", 
+    "gamefor" : [
+        ""
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "promotion", 
+    "deal" : "", 
+    "technology" : "<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">Our course has been professionally designed and built by Adventure Rope Group, Malayasia. Adventure Ropes &amp; SMAAASH Management has taken every effort possible to ensure that your experience here at Zip line will not only be one of the most memorable experiences in your life but will also be one of the safest adventures.</p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\"><strong>&nbsp;</strong></p>", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\">Commuting in Mumbai city is a trying exercise. Traffic snarls and potholes are just a few of the innumerable bottlenecks one faces. But now you can beat the bustle as Smaaash introduces the first-of-its-kind Zipline. So now don't fret and zip on to Mumbai's newest mode of transport. Zipline will remain closed during monsoons. *Minimum weight limit - 40 Kgs. *Maximum weight limit - 80 Kgs.</p>", 
+    "image" : "58088c69dd1d05c8674181ea.jpg", 
+    "mobileBanner" : "57e0fbf6a19b6f17395d0273.png", 
+    "banner" : "57e0fbeca19b6f17395d0266.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "prize" : "", 
+    "schedule" : "", 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e130c4d32ecf3237dcf2f2"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e13074d32ecf3237dcf2e6.png", 
+    "price" : null, 
+    "hometext" : "Mighty small", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+        {
+            "_id" : ObjectId("5829701cbb6393e823773d14"), 
+            "order" : "1", 
+            "image" : "58297019bb6393e823773d0c.png"
+        }, 
+        {
+            "_id" : ObjectId("582997918f3f9c8507523243"), 
+            "order" : "2", 
+            "image" : "5829978d8f3f9c850752323b.png"
+        }, 
+        {
+            "_id" : ObjectId("582997d58f3f9c850752325d"), 
+            "order" : "3", 
+            "image" : "582997d28f3f9c8507523254.png"
+        }
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "5839267a033b943e15277afe.pdf", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "http://smaaash.in/food-and-beverages", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Treat your taste buds to a tasty carnival with the carnival-themed Mighty Small. A heaven on earth for every foodie, Mighty Small offers a mouth-watering dining experience like no other, with a wide array of lip-smacking options. The perfect place to hangout after your gaming sessions, Might Small will surely leave you might impressed.</span></p>", 
+    "image" : "57e13066d32ecf3237dcf2de.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "BranchPackageID" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e13196d32ecf3237dcf331"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e1315ed32ecf3237dcf307.png", 
+    "price" : null, 
+    "hometext" : "Big Fat Treats", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "http://smaaash.in/food-and-beverages", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Enjoy the sweet taste of victory with delicious desserts at the dessert bar, Big Fat Treat. No more cravings, it's time to treat your sweet tooth to the amazing range of desserts.</span></p>", 
+    "image" : "57e1314fd32ecf3237dcf2ff.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e13248d32ecf3237dcf36a"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e1320cd32ecf3237dcf361.png", 
+    "price" : "", 
+    "hometext" : "Banquet and lounge area", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Thanks to the great variety of in-house delicacies and gaming attractions, the elegant and spacious Banquet and Lounge Area stands out as one of the most unique destinations for family functions and corporate gatherings. With pre-fixed package options, it promises to make every celebration hassle-free and unforgettable.</span></p>", 
+    "image" : "57e131ffd32ecf3237dcf359.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e1328b23570a1f6879e025"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e148da3da62fae1dfc56be.png", 
+    "price" : "", 
+    "hometext" : "Viewing Gallery", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Enjoy the World&rsquo;s Greatest Sporting Events live, like never before, thanks to the 11 big screens at the Viewing Gallery. Order a drink or binge on the delicious food as the legends of the game put on a show of a lifetime.</span></p>", 
+    "image" : "57e149483da62fae1dfc56d3.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e132f323570a1f6879e043"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e132cb23570a1f6879e036.png", 
+    "price" : "", 
+    "hometext" : "Uncorked", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Raise your spirits and fill your evening with cheers at Uncorked &ndash; the perfect place to chill out with chilled drinks. With a wide selection of Indian and International liquor and beer, and a cocktail for every preference, Uncorked is the place where you get to call the shots, literally!</span></p>", 
+    "image" : "57e132b823570a1f6879e02e.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e13d754c8614a4029152a5"), 
+    "type" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "schedule" : "<div class=\"prize-name \" style=\"box-sizing: border-box; margin-top: 5px; color: #333333; font-family: 'Galano Grotesque'; font-size: 14px;\">\n<p class=\"inline-block\" style=\"box-sizing: border-box; margin: 0px; display: inline-block; font-weight: 600; text-align: justify; vertical-align: top;\">Registration Fees:-</p>\n&nbsp;\n<div class=\"prize-value inline-block\" style=\"box-sizing: border-box; display: inline-block;\">\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`750 \u0003&nbsp;</span>(Under 16)</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`1000 \u0003&nbsp;</span>(Under 25)\u0003</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`2000 \u0003&nbsp;</span>(Corpate)</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`2000&nbsp;</span>(Open)</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`1000&nbsp;</span>(Women)</p>\n</div>\n</div>\n<div class=\"prize-name \" style=\"box-sizing: border-box; margin-top: 5px; color: #333333; font-family: 'Galano Grotesque'; font-size: 14px;\">\n<div class=\"prize-value inline-block\" style=\"box-sizing: border-box; display: inline-block;\">\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\">Registration Begin:-<span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">&nbsp;25th May 2016&nbsp;</span>\u0003</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\">League Rounds:-<span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">&nbsp;\u0003 25th May to 16th Aug 2016</span></p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\">Knockout Phase:-<span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">&nbsp;\u0003 20th Aug to 4th Sep 2016</span></p>\n</div>\n</div>", 
+    "prize" : "<div class=\"prize-name \" style=\"box-sizing: border-box; margin-top: 5px; color: #333333; font-family: 'Galano Grotesque'; font-size: 14px;\">\n<p class=\"inline-block\" style=\"box-sizing: border-box; margin: 0px; display: inline-block; font-weight: 600; text-align: justify; vertical-align: top;\">National Winner:-</p>\n&nbsp;\n<div class=\"prize-value inline-block\" style=\"box-sizing: border-box; display: inline-block;\">\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`5,00,000&nbsp;</span>(Winner)\u0003</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`3,00,000&nbsp;</span>(Runner Up)</p>\n</div>\n</div>\n<div class=\"prize-name \" style=\"box-sizing: border-box; margin-top: 5px; color: #333333; font-family: 'Galano Grotesque'; font-size: 14px;\">\n<p class=\"inline-block\" style=\"box-sizing: border-box; margin: 0px; display: inline-block; font-weight: 600; text-align: justify; vertical-align: top;\">League Rounds:-</p>\n&nbsp;\n<div class=\"prize-value inline-block\" style=\"box-sizing: border-box; display: inline-block;\">\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">Trophies &amp; Kits&nbsp;</span>(Under 16)\u0003</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`50,000 &amp; `25,000&nbsp;</span>(Corpate)\u0003</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`15,000 &amp; `10,000&nbsp;</span>(College)</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`50,000 &amp; `25,000&nbsp;</span>(Open)</p>\n<p style=\"box-sizing: border-box; margin: 0px; font-weight: 600; text-align: justify; vertical-align: bottom;\"><span class=\"orange\" style=\"box-sizing: border-box; color: #fc5626; font-size: 16px;\">`15,000 &amp; `10,000&nbsp;</span>(Women)</p>\n</div>\n</div>", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e13d3d4c8614a40291529c.png", 
+    "price" : null, 
+    "hometext" : "Cricket Carnival", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "58356f9cb6f7fac13a79d427.pdf", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "<p><span style=\"color: #333333; font-family: 'Galano Grotesque'; font-size: 14px; font-weight: 600;\">Each team will get 10 overs (8 match overs + 2 trail overs) to put their highest possible total on the board | Level: Amateur (for all categories) | Teams can register and play any day/any time during Smaaash center operational hours (regular waiting applicable) | Teams can re-register to try and score better through the league phase till August 16, 2016 | All scores will be displayed on the leader board at Smaaash Center.</span></p>", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">The biggest, nation-wide cricket challenge is here with a chance for you to play for Team Tendulkar or Team Kohli. Form your 6 member team consisting of the purest strikers of the cricket ball and embark on the path of winning cash prizes worth Rs 16 Lakhs.</span></p>", 
+    "image" : "57e13d324c8614a402915293.png", 
+    "mobileBanner" : "", 
+    "banner" : "57e537fab1042db723b02817.png", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0), 
+    "eventType" : "Event", 
+    "BranchPackageID" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e13e364c8614a4029152fa"), 
+    "type" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e13e044c8614a4029152e4.png", 
+    "price" : null, 
+    "hometext" : "Monsoon Karting Championship", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Bring your racing spirits to the track and join in with THE MONSOON KARTING CHAMPIONSHIP only #Smaaash Mumbai! Get a chance to race along side the champs and win cash prize worth Rs. 50,000! Sponsored by &ndash; Sports Konnect, Singapore GP &amp; Your Singapore.</span></p>", 
+    "image" : "57e13dea4c8614a4029152bb.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0), 
+    "eventType" : "Event"
+}
+{ 
+    "_id" : ObjectId("57e140923da62fae1dfc5553"), 
+    "type" : ObjectId("57bc4b10eb9c91f1025a3b54"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "57d6a09dbd5eb9846074b419", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Birthday Party", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "58343d019f3f2cd049f2d00a.pdf", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "http://smaaash.in", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Render your friends speechless with a never-before-seen birthday celebration at Smaaash. With Smaaash attractions, delectable foods and theme-party options to choose from, why host a party, when you can host a carnival?</span></p>", 
+    "image" : "57ee3074377e8daa4b82c57f.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e141443da62fae1dfc55a7"), 
+    "type" : ObjectId("57bc4b10eb9c91f1025a3b54"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "57d6a027bd5eb9846074b418", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Pre-Wedding Parties", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "http://smaaash.in", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Surprise everyone with your crazy trademark antics, on your last night of bachelor/spinster freedom. Immerse completely into the electric beats of chartbusting hits, lay your hands on our adrenaline fused stimulating games, or guzzle guilt-freely, on your favourite liquor and signature spirits.</span></p>", 
+    "image" : "57ee312c377e8daa4b82c62c.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e1432c3da62fae1dfc563c"), 
+    "type" : ObjectId("57bc4b10eb9c91f1025a3b54"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "57e142483da62fae1dfc55f2", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Corporate Parties", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Move the meetings from the bored-room to board-games-room with exclusive Corporate Party offerings at Smaaash. Order some delicious food and sip on your favourite drinks, while you enjoy beating your bosses, in the games of course</span></p>", 
+    "image" : "57ee3153377e8daa4b82c642.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e143a73da62fae1dfc565e"), 
+    "type" : ObjectId("57bc4b10eb9c91f1025a3b54"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "57e1429c3da62fae1dfc560c", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Kitty Parties", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Host a memorable ladies night with interactive games, filled with juicy gossips and endless bouts of laughter. With a wide range of world-class cuisines and an assortment of sinful desserts to indulge in, even your nagging friend will have nothing to whine/complain about.</span></p>", 
+    "image" : "57ee3245f3c717350ab2a71b.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e14a843da62fae1dfc56fd"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e14a333da62fae1dfc56f5.png", 
+    "price" : "", 
+    "hometext" : "Unforked", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : false, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Take your taste buds on a world tour with our Greek Greens, Thai Speciality, Italian Classics, Mexican Bites and more. Visit Unforked &ndash; a heaven on earth for every foodie, to indulge in a dining experience like no other. With a mouth-watering array of starters, Indian food, main course and desserts to choose from, Unforked is the place to be at when you feel like fooding around.</span></p>", 
+    "image" : "57e14a043da62fae1dfc56ed.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e14b393da62fae1dfc5712"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e14afd3da62fae1dfc5709.png", 
+    "price" : "", 
+    "hometext" : "Smaaash Super Sunday Carnival Brunch", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Your Sundays just got a whole lot better! Now indulge in lip-smacking food &amp; refreshing beverages with Mighty Small Cafe Sunday Brunch! That's not all - get 10 arcade games along with this FOR FREE! Offer applicable on Sundays only (12 PM - 4 PM) Prices: Rs. 666* - Adults Rs. 444* - Kids *T&amp;C apply.</span></p>", 
+    "image" : "57e14aeb3da62fae1dfc5701.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e3749abfa5730b5dd5c8ea"), 
+    "type" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e37452bfa5730b5dd5c8b9.png", 
+    "price" : null, 
+    "hometext" : "EDM nights", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Smaaash brings to you EDM nights - 5 Fridays 5 Artists starting 27th May, 8:00 PM onwards. With the catchy beats and the electrifying rhythm, where 5 EDM artists will make you groove with Unlimited Beer &amp; Games Package at Rs. 1999 per couple / Rs. 1499 for Stags.</span></p>", 
+    "image" : "57e37444bfa5730b5dd5c8b0.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0), 
+    "eventType" : "Tournament"
+}
+{ 
+    "_id" : ObjectId("57e37559bfa5730b5dd5c95a"), 
+    "type" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e3752ebfa5730b5dd5c951.png", 
+    "price" : null, 
+    "hometext" : "Harley Challenge", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Walk in to Smaaash and ride out with your very own Harley Davidson.</span></p>", 
+    "image" : "57e37521bfa5730b5dd5c948.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0), 
+    "eventType" : "Tournament"
+}
+{ 
+    "_id" : ObjectId("57e37650bfa5730b5dd5c983"), 
+    "type" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e375b8bfa5730b5dd5c97a.png", 
+    "price" : null, 
+    "hometext" : "Challenge the bartender", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">If you like living on the edge, this is your chance! Walk up to the bartender (Godfather style), place your drink, pay for it and ask the bartender to toss a coin. If you call it right, you get your second drink for free*! If you lose, you will have to chug your drink down! You can participate only once, make it count! T&amp;C Apply.</span></p>", 
+    "image" : "57e375a9bfa5730b5dd5c972.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0), 
+    "eventType" : "Challenges"
+}
+{ 
+    "_id" : ObjectId("57e376d5bfa5730b5dd5c9b0"), 
+    "type" : ObjectId("57bd4e71a86ee9fa6770d4b2"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e376a8bfa5730b5dd5c99b.png", 
+    "price" : null, 
+    "hometext" : "Mighty small earthquake challenge", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Are you up for a challenge? Gorge on the lip-smacking chocolate earthquake in under one minute and stand a chance to win a ‪#&lrm;Smaaash Food Voucher worth Rs.1000* *T&amp;C apply **The voucher is valid only on food. Offer valid only if completed in under a minute. Offer valid only at #Smaaash ‪#&lrm;Noida</span></p>", 
+    "image" : "57e37695bfa5730b5dd5c988.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0), 
+    "eventType" : "Challenges"
+}
+{ 
+    "_id" : ObjectId("57e4cb14b1042db723b00ba6"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Student Special offer @ 699 - Mumbai", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c356266c688f570cbd827.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4cd80b1042db723b00bfe"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Food & Drink Combo -For student only", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c35cf66c688f570cbd8aa.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4ce21b1042db723b00c10"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Student special offer @ 699 - Gurgaon", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c361866c688f570cbd8b8.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4ce85b1042db723b00c1e"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Virtual Reality @ 99", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c386866c688f570cbd96b.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4ceafb1042db723b00c2e"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Virtual Reality @ 160", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c3a1866c688f570cbda49.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4cf2db1042db723b00c3b"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "smaaash cricket @ 250", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c3c9d66c688f570cbdac3.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4cfa0b1042db723b00c60"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Smaaash Twilight Bowling @ 250", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c3cfb66c688f570cbdada.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4cff8b1042db723b00c84"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : null, 
+    "hometext" : "Paintball @ 300", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "581c3d1766c688f570cbdae8.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d035b1042db723b00c96"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Sky Karting @ 300", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d02fb1042db723b00c8e.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d090b1042db723b00ca2"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "All Arcade games @ 120", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d088b1042db723b00c9a.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("579b0d74fa72c24405ee0818"), 
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d1b4b1042db723b00cbf"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "499 student offer - hyderabad", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d1abb1042db723b00ca6.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d281b1042db723b00ce2"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Student Special offer @ 699 - hyderabad", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d4a0b1042db723b00d7f.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d2d1b1042db723b00d07"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Thursday student special @ 399 - bangalore", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d2cab1042db723b00cff.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d321b1042db723b00d16"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Student Spcial Offer@ 499 - Bangalore", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d313b1042db723b00d0e.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d382b1042db723b00d4b"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Student Special Offer @ 699 - Bangalore", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d37ab1042db723b00d34.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d3b4b1042db723b00d61"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Student Special Offer @ 599 - Noida", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d531b1042db723b00da0.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4d474b1042db723b00d6f"), 
+    "type" : ObjectId("57c9470e214d5a1c10f7d042"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : "", 
+    "hometext" : "Student Special offer @ 699 - Noida", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4d46eb1042db723b00d67.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4dc45b1042db723b00f23"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4dbf4b1042db723b00f00.png", 
+    "price" : null, 
+    "hometext" : "MONSOON DAY PASS!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">This Monsoon, enjoy the rains Smaaash Style! Starting 1st July get all games at packages starting at only Rs. 899! Get Snow Rush (20 mins), Cricket (3 overs), Bowling (5 Frames), Trampoline (15 mins) + All arcade and VR games at 899 onwards! Add 300 to this package to get 3 Mins Sky Karting!! *Paintball not included *House Waiting rules apply *Zipline is not operational in the monsoon hence excluded *Taxes as applicable Offer Valid Monday-Thursday 12.30 PM onward. OPEN TO ALL!</span></p>", 
+    "image" : "57e4dbd7b1042db723b00ef7.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f4e1b1042db723b01592"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f4bfb1042db723b0158a.png", 
+    "price" : "", 
+    "hometext" : "STUDENT SPECIAL OFFER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Students-Here's a special one for you. Show your college ID &amp; avail all games just for Rs. 699*! Monday to Thursday | 12:30 PM to 5:00 PM | Not valid without college ID. *T&amp;C apply. Offer excludes Sky Karting, Zipline, Trampoline Park, XD Theatre &amp; Snow Rush. *Taxes as applicable</span></p>", 
+    "image" : "57e4f4b5b1042db723b01582.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f619b1042db723b0167b"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f576b1042db723b015fc.png", 
+    "price" : "", 
+    "hometext" : "SMAAASH TUESDAYS", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">We're giving you a reason to have double the fun! Buy 1 &amp; get the 2nd absolutely free every tuesday at Smaaash! Offer valid on select Games | Offer valid for Vodafone users only. *T&amp;C apply</span></p>", 
+    "image" : "57e4f5c6b1042db723b0164b.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("579b0d74fa72c24405ee0818"), 
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f6e5b1042db723b016d6"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f6c1b1042db723b016cd.png", 
+    "price" : "", 
+    "hometext" : "SMAAASH TUESDAYS", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "57e4f6b2b1042db723b016c4.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f7f5b1042db723b01734"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f7a3b1042db723b0171a.png", 
+    "price" : "", 
+    "hometext" : "CHILDREN'S CRAZY CARNIVAL OFFER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span class=\"attr-info\"><span style=\"font-family: Arial, sans-serif; border: 1pt none windowtext; padding: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Get the kids along and enjoy the crazy carnival at Smaaash! Play any 5 arcade games, XD theatre, 2 Virtual Reality Games &amp; Trampoline Park all for Rs. 1250 only! *Valid for Kids only *T&amp;C apply. *Taxes as applicable</span></span></p>", 
+    "image" : "57e4f778b1042db723b01708.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f868b1042db723b01772"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f854b1042db723b01769.png", 
+    "price" : "", 
+    "hometext" : "YOUNG AT HEART OFFER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">We know you are young at heart when you love playing games. Play Cricket (15 mins)/ Karting (6 mins), Bowling, XD theatre, Any 2 Virtual Reality Games, Super Keeper-5 shots &amp; Dodgeball at a reduced price of Rs. 1775/- ! Package costs Rs 1975/- on weekends. *T&amp;C apply *Taxes as applicable</span></p>", 
+    "image" : "57e4f838b1042db723b01749.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f984b1042db723b017b6"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f963b1042db723b017ae.png", 
+    "price" : "", 
+    "hometext" : "BEER AT 150", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">We are giving you the easiest way of getting a 6-pack! Enjoy Beer pint all for Rs.150 all inclusive! T&amp;C apply</span></p>", 
+    "image" : "57e4f913b1042db723b017a6.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4f9f2b1042db723b017ec"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4f9beb1042db723b017c2.png", 
+    "price" : "", 
+    "hometext" : "BEER AT 49", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">We are giving you the easiest way of getting a 6-pack! Enjoy Draft Beer all for Rs. 49! T&amp;C apply</span></p>", 
+    "image" : "57e4f9acb1042db723b017ba.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4fb0bb1042db723b0180e"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4facbb1042db723b01806.png", 
+    "price" : "", 
+    "hometext" : "THE BIG BRUNCH THEORY", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Make your sundays Super-Sundays with the Big Brunch Theory. Enjoy a Brunch, IMFL &amp; Games all for Rs. 1299/- T&amp;C apply | Timings - 11:30 AM to 3:30 PM | For 6 to 12 year olds - Brunch + Games at Rs. 699/-</span></p>", 
+    "image" : "57e4faa6b1042db723b017fe.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4fbdfb1042db723b01833"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4fbbfb1042db723b0182a.png", 
+    "price" : "", 
+    "hometext" : "HIT TO WIN!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">It's time to put your cricket skills to test. Hit 6 consecutive fours against a spin bowler or 3 against a pacer to win a beer (Amateur Level) | Hit 3 consecutive fours or 1 six against a pacer to win a beer. 3 consecutive sixes gets you 6 beers! (County level) | If you think this isn't enough - Try our challenges on the international level - Hit 2 consecutive fours to get a beer or 1 six for 3 beers. 3 sixes gets you 6 beers &amp; 6 consecutive sixes can get you a brand new harley davidson! T&amp;C apply</span></p>", 
+    "image" : "57e4fba2b1042db723b01822.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4fc4cb1042db723b0185b"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4fc30b1042db723b01852.png", 
+    "price" : "", 
+    "hometext" : "FOOTBALL FANATICS OFFER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">This one's for the football lovers! Save 6 goals in Face Ronaldo to win 2 beers. Score 2 consecutive goals to get 2 beers, 5 consecutive goals to get a Rs.3000/- recharge on your smaaash card &amp; 10 consecutive goals to win a brand new Harley Davidson!</span></p>", 
+    "image" : "57e4fc11b1042db723b01849.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4feb2b1042db723b01878"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4fe9ab1042db723b01870.png", 
+    "price" : "", 
+    "hometext" : "BOWL FOR BEERS", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Score 140 in a game of Bowling to Win 2 Beers! It gets better - score 210 to get Rs. 5000 recharge on your Smaaash Card. Well, we're not done. Score 280 to win a brand new Harley Davidson</span></p>", 
+    "image" : "57e4fe8cb1042db723b01867.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e4ff74b1042db723b01894"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e4ff5ab1042db723b0188b.png", 
+    "price" : "", 
+    "hometext" : "KING OF HAMMER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">It's time to prove your strength with the Ultimate games of Hammers! Score 900 &amp; above to win 2 beers! T&amp;C</span></p>", 
+    "image" : "57e4ff08b1042db723b01881.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e503dbb1042db723b018b6"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e503a8b1042db723b018ad.png", 
+    "price" : "", 
+    "hometext" : "SMAAASH SUPER SUNDAY CARNIVAL BRUNCH!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Your Sundays just got a whole lot better! Now indulge in lip-smacking food &amp; refreshing beverages with Mighty Small Cafe Sunday Brunch! That's not all - get 10 arcade games along with this FOR FREE! Offer applicable on Sundays only (12 PM - 4 PM) Prices: Rs. 666* - Adults Rs. 444* - Kids *T&amp;C apply.</span></p>", 
+    "image" : "57e50021b1042db723b0189a.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e50446b1042db723b018d2"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e50429b1042db723b018c9.png", 
+    "price" : "", 
+    "hometext" : "STUDENT SPECIAL", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">nother opportunity to flash your ID cards &amp; avail all games at just Rs. 499*! Offer valid on Monday to Friday (11 AM - 6 PM) Offer allows single access to all games. *T&amp;C Apply.</span></p>", 
+    "image" : "57e5040fb1042db723b018c0.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e505c6b1042db723b018f4"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e505a6b1042db723b018e9.png", 
+    "price" : "", 
+    "hometext" : "SUPER SPECIAL STUDENT OFFER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">If the students offer wasn't enough, here's making your life even better. Make your thursdays extra special with the Extra Special Student offer. Enjoy single access to Cricket/ Bowling + Single access to all games all for Rs. 399! OFFER VALID ON THURSDAYS ONLY! *T&amp;C apply</span></p>", 
+    "image" : "57e5058db1042db723b018e0.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e5066fb1042db723b01915"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e50636b1042db723b0190d.png", 
+    "price" : "", 
+    "hometext" : "ALL DAY OFFERS AT SMAAASH!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Now enjoy a day full of fun, Smaaash style! Get any 7 arcade games for Rs. 390*. Get any one ATV+ 7 arcade games for Rs. 490*. That's not all! Get Dodge ball, Nitro wheelie &amp; ATV+7 arcade games for Rs. 690* only! Offer valid from Monday to Friday ALL DAY LONG! *T&amp;C apply.</span></p>", 
+    "image" : "57e50622b1042db723b01905.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e5083eb1042db723b0196d"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e50807b1042db723b01964.png", 
+    "price" : "", 
+    "hometext" : "STUDENT SPECIAL OFFER-499", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Another opportunity to flash your ID cards &amp; avail all games at just Rs. 499*! Offer valid on Monday to Friday (11 AM - 6 PM) Offer allows single access to all games. Offer not valid on Cricket &amp; Bowling. *T&amp;C apply.</span></p>", 
+    "image" : "57e507e3b1042db723b0195b.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e508f6b1042db723b01991"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e508b6b1042db723b01988.png", 
+    "price" : "", 
+    "hometext" : "EXPRESS LUNCH @ SMAAASH", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span class=\"attr-info\"><span style=\"font-family: Arial, sans-serif; border: 1pt none windowtext; padding: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Get your power bite on the go! Get express lunch at Smaaash for Rs. 299* only! Offer includes - 1 Main Course, 1 Lemonade and 1 Dessert. Offer valid from Monday to Friday (12PM to 4PM) *T&amp;C apply</span></span></p>", 
+    "image" : "57e5089ab1042db723b0197f.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e509feb1042db723b019a5"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e509e1b1042db723b0199d.png", 
+    "price" : "", 
+    "hometext" : "STUDENT OFFER", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Put your ID cards to use and avail all games at #Smaaash! Flash your college ID cards at the gates and avail all games just for Rs. 699*! That's not all - for school students, avail all games just for Rs. 599*! Offer valid on Monday to Friday from 11 AM to 7 PM. *T&amp;C apply. *Cricket &amp; Bowling not included. House waiting rules apply.</span></p>", 
+    "image" : "57e50986b1042db723b01995.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e50a93b1042db723b019bf"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e50a31b1042db723b019b6.png", 
+    "price" : "", 
+    "hometext" : "SWING TO WIN!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">It's time to put your cricket skills to test. Hit 6 consecutive fours against a spin bowler or 3 against a pacer to win a mocktail (Amateur Level) | Hit 3 consecutive fours or 1 six against a pacer to win a mocktail. 3 consecutive sixes gets you 6 mocktails! (County level) | If you think this isn't enough - Try our challenges on the international level - Hit 2 consecutive fours to get a mocktail or 1 six for 3 mocktails. 3 sixes gets you 6 mocktails &amp; 6 consecutive sixes can get you a brand new harley davidson! T&amp;C apply | Mocktail subject to Bartender's choice</span></p>", 
+    "image" : "57e50a20b1042db723b019ad.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e50b2fb1042db723b019e9"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e50aecb1042db723b019e0.png", 
+    "price" : "", 
+    "hometext" : "FOOTBALL LOVERS!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span class=\"attr-info\"><span style=\"font-family: Arial, sans-serif; border: 1pt none windowtext; padding: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">This one is for football lover! Score 2 consecutive goals and get 2 mocktails. Score 5 consecutive goals and get recharge of Rs. 3000 on your Smaaash Card. Score 7 consecutive goals and get recharge of Rs. 10,000 on your Smaaash Card. That's not all, score 10 consecutive goals and win a brand new HARLEY DAVIDSON!</span></span></p>", 
+    "image" : "57e50ad1b1042db723b019d7.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e50bc5b1042db723b01a01"), 
+    "type" : ObjectId("57bc4b5aeb9c91f1025a3b58"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e50ba2b1042db723b019f8.png", 
+    "price" : "", 
+    "hometext" : "VALUE FOR MONEY!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Brace yourself for amazing offers! Recharge your SMAAASH card to get equal or greater gaming value! Recharge for Rs. 3500 to get 3500 gaming value. Recharge for Rs. 5000 and get 6500 gaming value! Recharge for Rs. 10,000 and get 13,500 gaming value!</span></p>", 
+    "image" : "57e50b92b1042db723b019ef.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e515cdb1042db723b01bf0"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e515acb1042db723b01bd6.png", 
+    "price" : null, 
+    "hometext" : "BOWL FOR BEVERAGE", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "58392925033b943e15277b95.pdf", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Douse all your worries by aiming for those rickety pins with your strikes! Score an impressive number of 160 or more and win a beverage to take home.</span></p>", 
+    "image" : "57e5159ab1042db723b01bbc.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "BranchPackageID" : NumberInt(0), 
+    "showBuyNow" : false, 
+    "gameType" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e5161eb1042db723b01c1b"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e515fcb1042db723b01c01.png", 
+    "price" : "", 
+    "hometext" : "HAMMER IT FOR GOOD", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Muster all your strength and strike the hammerhead like the God of Thunder! Score 888 points and get a beverage free. Worth a shot, eh?</span></p>", 
+    "image" : "57e515e8b1042db723b01bf5.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e51691b1042db723b01c53"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e5166cb1042db723b01c4a.png", 
+    "price" : "", 
+    "hometext" : "SIXES CONTEST", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Reveal your inner Sachin and prepare to battle for the ultimate glory! Win a beverage if you manage to hit a six.</span></p>", 
+    "image" : "57e51643b1042db723b01c1f.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e517cfb1042db723b01c8a"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e51730b1042db723b01c78.png", 
+    "price" : "", 
+    "hometext" : "STRIKE TO WIN", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Put on your lucky football studs and go head-to-head with our supersonic goalkeeper. One goal will earn you refreshing beverage and score three consecutive goals for Messi shoes.</span></p>", 
+    "image" : "57e516d5b1042db723b01c6c.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e5184bb1042db723b01cd1"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e5181fb1042db723b01cb7.png", 
+    "price" : "", 
+    "hometext" : "SWAG BOLLYWOOD NIGHTS", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Let the Bollywood bug bite you this weekend as you shake the dance floor up! Dance to the latest Hindi music this Friday with ‪#&lrm;SwagBollywoodNights at Smaaash Cyberhub Gurgaon! Get unlimited beer/breezer and games worth Rs. 7500 for just Rs. 1999* per couple! *T&amp;C apply.</span></p>", 
+    "image" : "57e5180ab1042db723b01cae.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e51912b1042db723b01d1b"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e518f5b1042db723b01d12.png", 
+    "price" : "", 
+    "hometext" : "EAT PLAY PARTY @ 750 ONLY!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Grab your friends and head on to Smaaash to eat play party your way! Enjoy Bowling, any one virtual reality game, hoegarden beers/mocktail of your choice and one briyani only for Rs. 750*! *T&amp;C apply Offer valid for 2 people or more.</span></p>", 
+    "image" : "57e518e3b1042db723b01cf8.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e519a7b1042db723b01d55"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e51960b1042db723b01d39.png", 
+    "price" : "", 
+    "hometext" : "FIRST HALF PAY HALF", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Get all the more reason to party! First Half Pay Half! Get all games for HALF PRICE from Monday - Thursday. Offer valid from Monday - Thursday (11 AM - 5 PM) Offer valid till 28th July, 2016. *T&amp;C apply.</span></p>", 
+    "image" : "57e51937b1042db723b01d1f.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e51a18b1042db723b01da7"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e519f6b1042db723b01d9e.png", 
+    "price" : "", 
+    "hometext" : "THE BENELLI CHALLENGE", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span class=\"attr-info\"><span style=\"font-family: Arial, sans-serif; border: 1pt none windowtext; padding: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">You have a chance to ride back home with a sleek Benelli! All you have do is pick one route to take home this sweet ride! Score 6 consecutive sixes in Smaaash Cricket* OR Score 280 in Twilight Bowling* OR Score 7 consecutive goals in Super Keeper* *T &amp; C Apply.</span></span></p>", 
+    "image" : "57e519e1b1042db723b01d70.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e51a70b1042db723b01df0"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e51a51b1042db723b01dcf.png", 
+    "price" : "", 
+    "hometext" : "HAPPY HOURS", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span style=\"font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Get double the fun for price of one on Bowling &amp; Drinks! Enjoying bowling with lip-smacking cocktails &amp; Sangria to get your post-play party started! Offer valid from Monday to Wednesday From 9 PM - 11 PM only. *T&amp;C apply. **Applicable on cocktails &amp; Sangria only.</span></p>", 
+    "image" : "57e51a38b1042db723b01dbc.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57e51b15b1042db723b01e17"), 
+    "type" : ObjectId("57bc4b36eb9c91f1025a3b56"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "57e51af2b1042db723b01e0f.png", 
+    "price" : "", 
+    "hometext" : "EAT TO PLAY!", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p class=\"MsoNormal\"><span class=\"attr-info\"><span style=\"font-family: Arial, sans-serif; border: 1pt none windowtext; padding: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Get ready to celebrate this Friendship's day #Smaaash stlye! Because this friendship's day you gotta eat to play! On a bill of Rs. 500 at Mighty Small Cafe, Noida you can gift your friends games worth Rs. 1500*! Dream friendship's day, isn't it? *T&amp;C apply. Contact the center for more details.</span></span></p>", 
+    "image" : "57e51ad2b1042db723b01e07.png", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("57808c9032b1d30b046dd48c")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57f3b8155202d45a66bacb9c"), 
+    "type" : ObjectId("57bc4af6eb9c91f1025a3b4f"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "582311b6ad4aa70d5136fcb7.jpg", 
+    "price" : NumberInt(0), 
+    "hometext" : "Find the most jaw-dropping", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "gameType" : NumberInt(0), 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "582311b2ad4aa70d5136fcaf.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "BranchPackageID" : NumberInt(0), 
+    "showBuyNow" : false
+}
+{ 
+    "_id" : ObjectId("57f3c2575202d45a66bad561"), 
+    "type" : ObjectId("57bc4af6eb9c91f1025a3b4f"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "582311cbad4aa70d5136fcd0.jpg", 
+    "price" : NumberInt(0), 
+    "hometext" : "HAMMER IT FOR GOOD", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "gameType" : NumberInt(0), 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "582311c7ad4aa70d5136fcc8.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "BranchPackageID" : NumberInt(0), 
+    "showBuyNow" : false
+}
+{ 
+    "_id" : ObjectId("57f3c3c55202d45a66bad694"), 
+    "type" : ObjectId("57bc4af6eb9c91f1025a3b4f"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "582311dead4aa70d5136fce5.jpg", 
+    "price" : NumberInt(0), 
+    "hometext" : "Strike", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "gameType" : NumberInt(0), 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : true, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "<p><strong style=\"margin: 0px; padding: 0px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;\">Lorem Ipsum</strong><span style=\"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>", 
+    "image" : "582311d8ad4aa70d5136fcdd.jpg", 
+    "mobileBanner" : "", 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0), 
+    "BranchPackageID" : NumberInt(0), 
+    "showBuyNow" : false
+}
+{ 
+    "_id" : ObjectId("5834380f9f3f2cd049f2ce98"), 
+    "type" : ObjectId("57bc4b48eb9c91f1025a3b57"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "yoyo", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "gameType" : NumberInt(0), 
+    "pdf" : "583438049f3f2cd049f2ce93.pdf", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : false, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "", 
+    "mobileBanner" : "", 
+    "showBuyNow" : false, 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801")
+    ], 
+    "status" : true, 
+    "video" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("583d0a6da6a2ea7210754dc2"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "gameType" : NumberInt(0), 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : false, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "", 
+    "mobileBanner" : "", 
+    "showBuyNow" : false, 
+    "BranchPackageID" : NumberInt(0), 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+
+    ], 
+    "status" : false, 
+    "video" : "Ym4JSvCWBqs", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("583d0a71a6a2ea7210754dc3"), 
+    "type" : ObjectId("57bc4b2aeb9c91f1025a3b55"), 
+    "schedule" : "", 
+    "prize" : "", 
+    "timingAndPricing" : "", 
+    "hostAPartyType" : "", 
+    "videoThumbnail" : "", 
+    "multipleattraction" : [
+
+    ], 
+    "homeimage" : "", 
+    "price" : NumberInt(0), 
+    "hometext" : "", 
+    "gamefor" : [
+
+    ], 
+    "externallink" : "", 
+    "twitter" : "", 
+    "google" : "", 
+    "fb" : "", 
+    "gallery" : [
+
+    ], 
+    "timing" : [
+
+    ], 
+    "gameType" : NumberInt(0), 
+    "pdf" : "", 
+    "currentEvent" : "", 
+    "promotion" : "", 
+    "deal" : "", 
+    "technology" : "", 
+    "isHome" : false, 
+    "sublink" : "", 
+    "title" : "", 
+    "description" : "", 
+    "image" : "", 
+    "mobileBanner" : "", 
+    "showBuyNow" : false, 
+    "BranchPackageID" : NumberInt(0), 
+    "banner" : "", 
+    "text" : "", 
+    "order" : "", 
+    "city" : [
+
+    ], 
+    "status" : false, 
+    "video" : "Ym4JSvCWBqs", 
+    "__v" : NumberInt(0)
+}

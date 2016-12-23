@@ -1,0 +1,34 @@
+{ 
+    "_id" : ObjectId("57e1110eed14716d62385ea6"), 
+    "city" : [
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("579b0d74fa72c24405ee0818"), 
+        ObjectId("577f4d106b78e0bc03724800")
+    ], 
+    "designation" : "CHIEF MARKETING OFFICER", 
+    "description" : "As CMO, Ashok leads a strong Marketing management team. In this fast-growing segment of Smaaash Entertainment, Ashok is responsible for Lead the thinking on overallAs CMO, Ashok leads a strong Marketing management team. In this fast-growing segment of Smaaash Entertainment, Ashok is responsible for Lead the thinking on overallAs CMO, Ashok leads a strong Marketing management team. In this fast-growing segment of Smaaash Entertainment, Ashok is responsible for Lead the thinking on overallAs CMO, Ashok leads a strong Marketing management team. In this fast-growing segment of Smaaash Entertainment, Ashok is responsible for Lead the thinking on overallAs CMO, Ashok leads a strong Marketing management team. In this fast-growing segment of Smaaash Entertainment, Ashok is responsible for Lead the thinking on overal", 
+    "image" : "57e112c5ed14716d62385f24.png", 
+    "status" : true, 
+    "order" : "1", 
+    "name" : "Ashok Cherian", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("582323acad4aa70d51370a11"), 
+    "city" : [
+        ObjectId("577f4d106b78e0bc03724800"), 
+        ObjectId("577f4d1c6b78e0bc03724801"), 
+        ObjectId("577f4d246b78e0bc03724802"), 
+        ObjectId("57808c9032b1d30b046dd48c"), 
+        ObjectId("579b0d74fa72c24405ee0818")
+    ], 
+    "designation" : "CHIEF FINANCIAL OFFICER", 
+    "description" : "As CFO, Vishwanath leads a strong financial management team. In this fast-growing segment of Smaaash Entertainment, Vishwanath is responsible for finance activities, including accounting and controls, business planning and analysis, Audits and compliances, Mergers & Acquisitions and Private Equity Funding.", 
+    "image" : "58232388ad4aa70d51370a07.png", 
+    "status" : true, 
+    "order" : "2", 
+    "name" : "VISHWANATH KOTIAN", 
+    "__v" : NumberInt(0)
+}

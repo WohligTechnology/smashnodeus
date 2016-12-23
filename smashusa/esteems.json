@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("57f355b212b2c02c2fbe6cdf"), 
+    "city" : ObjectId("577f4d106b78e0bc03724800"), 
+    "status" : true, 
+    "image" : "57f750a35202d45a66bb1ab4.jpg", 
+    "order" : "1", 
+    "__v" : NumberInt(0)
+}
