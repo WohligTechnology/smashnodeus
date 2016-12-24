@@ -551,6 +551,51 @@ module.exports = {
       });
     }
   },
+
+  giftCard: function (req, res) {
+    if (req.body.BranchID && req.body.BranchID !== "" && req.body.GiftCardAmount && req.body.GiftCardAmount !== "") {
+      var api = sails.api;
+      api = _.assign(api, req.body);
+      request({
+        url: "http://apismaaash.itspl.net/SMAAASHAPI.svc/CustomerGiftCard",
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(api)
+      }, function (err, httpResponse, body) {
+        console.log(api);
+        var smaaashResponse = JSON.parse(JSON.parse(body));
+        console.log(smaaashResponse);
+        if (smaaashResponse.GiftCard[0].Status == 1) {
+          res.json({
+            value: true,
+            data: smaaashResponse
+          });
+        } else {
+          res.json({
+            value: false,
+            data: smaaashResponse
+          });
+        }
+
+      });
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+  returnUrlFunctionForGiftCard: function (req, res) {
+    if (req.body.Status == 1) {
+      var successUrl = "http://tingdom.in/smaaashusa/#/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      res.redirect(successUrl);
+    } else {
+      var failureUrl = "http://tingdom.in/smaaashusa/#/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      res.redirect(failureUrl);
+    }
+  },
   returnUrlFunction: function (req, res) {
     if (req.body.Status == 1) {
       var successUrl = "http://tingdom.in/smaaashusa/#/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
