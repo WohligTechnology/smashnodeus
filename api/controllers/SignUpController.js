@@ -589,10 +589,10 @@ module.exports = {
   },
   returnUrlFunctionForGiftCard: function (req, res) {
     if (req.body.Status == 1) {
-      var successUrl = "http://tingdom.in/smaaashusa/#/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      var successUrl = "http://tingdom.in/smaaashusa/#/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount;
       res.redirect(successUrl);
     } else {
-      var failureUrl = "http://tingdom.in/smaaashusa/#/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount + "&paymentfor=" + PaymentFor;
+      var failureUrl = "http://tingdom.in/smaaashusa/#/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount;
       res.redirect(failureUrl);
     }
   },
