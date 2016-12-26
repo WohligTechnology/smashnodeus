@@ -588,6 +588,7 @@ module.exports = {
     }
   },
   returnUrlFunctionForGiftCard: function (req, res) {
+    console.log(req.body);
     if (req.body.Status == 1) {
       var successUrl = "http://tingdom.in/smaaashusa/#/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount;
       res.redirect(successUrl);
