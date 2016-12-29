@@ -94,7 +94,10 @@ var schema = new Schema({
     type: Number,
     default: 0
   },
-
+  rateImage: {
+    type: String,
+    default: ""
+  },
   timing: [{
     type: {
       type: String,

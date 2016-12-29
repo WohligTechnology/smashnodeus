@@ -25,10 +25,7 @@ var schema = new Schema({
     type: String,
     default: ""
   },
-  rateImage: {
-    type: String,
-    default: ""
-  },
+
   link: {
     type: String,
     default: ""
