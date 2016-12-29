@@ -589,13 +589,13 @@ module.exports = {
   },
   returnUrlFunctionForGiftCard: function (req, res) {
     console.log(req.body);
-    if (req.body[0].Status == 1) {
-      console.log("aaaa", req.body[0].Status);
+    if (req.body.Status == 1) {
+      console.log("aaaa", req.body.Status);
       var successUrl = "http://smaaashusa.com/#/thankyou/" + req.body.OrderNo + "/" + req.body.CNR_No + "/" + req.body.PayAmount;
       // var successUrl = "http://smaaashusa.com/#/thankyou?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount;
       res.redirect(successUrl);
     } else {
-      console.log("else", req.body[0].Status);
+      console.log("else", req.body.Status);
 
       var failureUrl = "http://smaaashusa.com/#/sorry/" + req.body.OrderNo + "/" + req.body.CNR_No + "/" + req.body.PayAmount;
       // var failureUrl = "http://smaaashusa.com/#/sorry?orderno=" + req.body.OrderNo + "&cnrno=" + req.body.CNR_No + "&amount=" + req.body.PayAmount;
