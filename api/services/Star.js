@@ -10,7 +10,7 @@ var schema = new Schema({
   },
 
   order: {
-    type: String,
+    type: Number,
     default: ""
   },
   popupImage: {
