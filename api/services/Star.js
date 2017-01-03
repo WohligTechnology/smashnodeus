@@ -143,9 +143,9 @@ var models = {
               '$regex': check
             },
             city: data.city
-          }).sort({
+          }).skip(data.pagesize * (data.pagenumber - 1)).sort({
             order: -1
-          }).skip(data.pagesize * (data.pagenumber - 1)).limit(data.pagesize).exec(function (err, data2) {
+          }).limit(data.pagesize).exec(function (err, data2) {
             if (err) {
               console.log(err);
               callback(err, null);
