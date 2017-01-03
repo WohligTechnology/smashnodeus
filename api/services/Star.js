@@ -11,7 +11,7 @@ var schema = new Schema({
 
   order: {
     type: Number,
-    default: ""
+    default: 0
   },
   popupImage: {
     type: String,
