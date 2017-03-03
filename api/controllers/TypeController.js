@@ -103,7 +103,35 @@ module.exports = {
         }
     },
 
-
+  getByUrl: function(req, res) {
+        if (req.body) {
+            if (req.body.myslug && req.body.myslug != "") {
+                Type.getByUrl(req.body, function(err, respo) {
+                    if (err) {
+                        res.json({
+                            value: false,
+                            data: err
+                        });
+                    } else {
+                        res.json({
+                            value: true,
+                            data: respo
+                        });
+                    }
+                });
+            } else {
+                res.json({
+                    value: false,
+                    data: "Invalid Id"
+                });
+            }
+        } else {
+            res.json({
+                value: false,
+                data: "Invalid call"
+            });
+        }
+    },
 
     deleteAll: function(req, res) {
         if (req.body) {

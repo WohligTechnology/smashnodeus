@@ -22,6 +22,16 @@ module.exports = {
       });
     }
   },
+   getByUrl: function (req, res) {
+    if (req.body) {
+      User.getByUrl(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
 
   delete: function (req, res) {
     if (req.body) {
@@ -285,5 +295,148 @@ module.exports = {
       res.json(JSON.parse(JSON.parse(body)));
     });
   },
+
+  updateAllType: function (req, res) {
+      Type.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+   updateAllBlog: function (req, res) {
+      Blog.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+   updateAllCity: function (req, res) {
+      City.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+   updateAllContact: function (req, res) {
+      Contact.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+  
+    updateAllExploreSmash: function (req, res) {
+      ExploreSmash.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.hometext);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+    updateAllEnquiry: function (req, res) {
+      Enquiry.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+    updateAllHostType: function (req, res) {
+      HostType.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+    updateAllLeader: function (req, res) {
+      Leader.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+   
+     updateAllSponsor: function (req, res) {
+      Sponsor.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   },
+     updateAllUser: function (req, res) {
+      User.find({}).exec(function (err, data) {
+          if(err) {
+            res.callback(err);
+          } else {
+            async.each(data,function(n,callback) {
+              n.myslug = _.kebabCase(n.name);
+              n.save(callback);
+            },function(err,data) {
+                res.callback(err,data);
+            });
+          }
+       });
+   }
 
 };

@@ -21,9 +21,30 @@ module.exports = {
       });
     }
   },
+   getByUrl: function (req, res) {
+
+    if (req.body) {
+      Blog.getByUrl(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
   getDetailBlog: function (req, res) {
     if (req.body._id) {
       Blog.getDetailBlog(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
+    getDetailBlogByUrl: function (req, res) {
+    if (req.body._id) {
+      Blog.getDetailBlogByUrl(req.body, res.callback);
     } else {
       res.json({
         value: false,

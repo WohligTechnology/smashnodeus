@@ -24,6 +24,17 @@ module.exports = {
       });
     }
   },
+   getByUrl: function(req, res) {
+
+    if (req.body) {
+      City.getByUrl(req.body, res.callback);
+    } else {
+      res.json({
+        value: false,
+        data: "Invalid Request"
+      });
+    }
+  },
 
   delete: function(req, res) {
     if (req.body) {
