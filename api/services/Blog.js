@@ -243,6 +243,7 @@ var models = {
       }
     });
   },
+
     getDetailBlogByUrl: function (data, callback) {
     // if (data.search) {
 
@@ -253,7 +254,7 @@ var models = {
       //detail blog
       blogDetail: function (callback) {
         return Blog.findOne({
-          _id: blogId,
+          myslug: blogId,
           city: data.city
         }, function (err, result) {
           if (err) {
@@ -286,7 +287,7 @@ var models = {
       },
       blogLikes: function (callback) {
         return Blog.findOne({
-          _id: blogId
+          myslug: blogId
         }, function (err, result) {
           if (err) {
             callback(err, null);
@@ -306,7 +307,7 @@ var models = {
       },
       blogComments: function (callback) {
         return Blog.findOne({
-          _id: blogId
+          myslug: blogId
         }, function (err, result) {
           if (err) {
             callback(err, null);
@@ -330,7 +331,7 @@ var models = {
       // {'post': {$ne : ""}}
       previousNextBlog: function (callback) {
         return Blog.find({
-          '_id': {
+          'myslug': {
             $ne: blogId
           }
         }, function (err, result) {
@@ -348,7 +349,7 @@ var models = {
       },
       youMayLike: function (callback) {
         return Blog.find({
-          '_id': {
+          'myslug': {
             $ne: blogId
           }
         }, function (err, result) {

@@ -43,7 +43,7 @@ module.exports = {
     }
   },
     getDetailBlogByUrl: function (req, res) {
-    if (req.body._id) {
+    if (req.body.myslug) {
       Blog.getDetailBlogByUrl(req.body, res.callback);
     } else {
       res.json({
