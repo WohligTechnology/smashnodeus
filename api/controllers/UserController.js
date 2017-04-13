@@ -1,5 +1,6 @@
 var request = require('request');
 var mongoose = require('mongoose');
+global["moment"] = require('moment');
 global["fs"] = require('fs');
 global["exec"] = require('child_process').exec;
 
