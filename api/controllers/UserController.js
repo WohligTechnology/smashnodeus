@@ -444,9 +444,11 @@ module.exports = {
        });
    },
   backupDatabase: function (req, res) {
+        res.connection.setTimeout(200000000);
+        req.connection.setTimeout(200000000)
         var q = req.host.search("127.0.0.1");
         var database = "smashusa";
-        if (true) {
+         if (q >= 0) {
            _.times(20, function (n) {
                 var name = moment().subtract(3 + n, "days").format("ddd-Do-MMM-YYYY");
                 exec("cd backup && rm -rf " + name + "*", function (err, stdout, stderr) {});
