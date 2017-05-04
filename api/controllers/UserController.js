@@ -447,6 +447,10 @@ module.exports = {
         var q = req.host.search("127.0.0.1");
         var database = "smashusa";
         if (true) {
+           _.times(20, function (n) {
+                var name = moment().subtract(3 + n, "days").format("ddd-Do-MMM-YYYY");
+                exec("cd backup && rm -rf " + name + "*", function (err, stdout, stderr) {});
+            });
             var jagz = _.map(mongoose.models, function (Model, key) {
                 var name = Model.collection.collectionName;
                 return {
