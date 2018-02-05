@@ -151,7 +151,7 @@ module.exports = {
       var writestream2 = gfs.createWriteStream({
         filename: gridFSFilename,
         metadata: ""
-          // metadata: metaValue
+        // metadata: metaValue
       });
       writestream2.on('finish', function () {
         sails.fs.unlink(filename);

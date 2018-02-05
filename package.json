@@ -29,6 +29,7 @@
     "md5": "^2.1.0",
     "mongoose": "^4.5.3",
     "mongoose-unique-validator": "^1.0.2",
+    "mongoose-url-slugs": "^1.0.2",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
     "passport-google-oauth": "^1.0.0",

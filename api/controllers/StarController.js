@@ -1,6 +1,6 @@
 module.exports = {
 
-  save: function(req, res) {
+  save: function (req, res) {
     if (req.body) {
       Star.saveData(req.body, res.callback);
     } else {
@@ -11,7 +11,7 @@ module.exports = {
     }
   },
 
-  getOne: function(req, res) {
+  getOne: function (req, res) {
 
     if (req.body) {
       Star.getOne(req.body, res.callback);
@@ -23,7 +23,7 @@ module.exports = {
     }
   },
 
-  delete: function(req, res) {
+  delete: function (req, res) {
     if (req.body) {
       Star.deleteData(req.body, res.callback);
     } else {
@@ -34,7 +34,7 @@ module.exports = {
     }
   },
 
-  getAll: function(req, res) {
+  getAll: function (req, res) {
     function callback(err, data) {
       Global.response(err, data, res);
     }
@@ -48,7 +48,7 @@ module.exports = {
     }
   },
 
-  findLimited: function(req, res) {
+  findLimited: function (req, res) {
     if (req.body) {
       if (req.body.pagenumber && req.body.pagenumber !== "" && req.body.pagesize && req.body.pagesize !== "") {
         Star.findLimited(req.body, res.callback);
@@ -65,7 +65,7 @@ module.exports = {
       });
     }
   },
-  findLimitedForBackend: function(req, res) {
+  findLimitedForBackend: function (req, res) {
     if (req.body) {
       if (req.body.pagenumber && req.body.pagenumber !== "" && req.body.pagesize && req.body.pagesize !== "") {
         Star.findLimitedForBackend(req.body, res.callback);
@@ -82,6 +82,4 @@ module.exports = {
       });
     }
   }
-
-
 };
