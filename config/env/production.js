@@ -11,7 +11,6 @@
  */
 
 module.exports = {
-
   /***************************************************************************
    * Set the default database connection for models in the production        *
    * environment (see config/connections.js and config/models.js )           *
@@ -25,8 +24,10 @@ module.exports = {
    * Set the port in the production environment to 80                        *
    ***************************************************************************/
 
-  port: 94,
-
+  port: 3000,
+  // Change it before putting on server
+  // mongodb://username:password@201.12.12.2:27017/database
+  mongodbUrl: "mongodb://playmongodb:BhkRJqO^ts#!@0.0.0.0:27017/smaaashdb"
   /***************************************************************************
    * Set the log level in production environment to "silent"                 *
    ***************************************************************************/
@@ -34,5 +35,4 @@ module.exports = {
   // log: {
   //   level: "silent"
   // }
-
 };
