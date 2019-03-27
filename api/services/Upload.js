@@ -82,7 +82,14 @@ var models = {
     var obj;
     if (fileObj.file.indexOf(".") > 0) {
       obj = {
-        name: fileObj.file
+        $or: [
+          {
+            name: fileObj.file
+          },
+          {
+            storageName: fileObj.file
+          }
+        ]
       };
     } else {
       obj = {
