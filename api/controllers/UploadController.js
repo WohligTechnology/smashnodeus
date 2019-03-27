@@ -109,7 +109,7 @@ module.exports = {
                       if (err || _.isEmpty(data)) {
                         callback(err);
                       } else {
-                        fileNames.push(data.name);
+                        fileNames.push(data.storageName);
                         callback();
                       }
                     });
