@@ -23,6 +23,7 @@
     "grunt-sails-linker": "~0.10.1",
     "grunt-sync": "0.2.4",
     "include-all": "~0.1.6",
+    "jimp": "^0.6.0",
     "json2csv": "^3.7.1",
     "json2xls": "^0.1.2",
     "lwip": "0.0.9",
@@ -37,7 +38,8 @@
     "rc": "1.0.1",
     "sails": "~0.12.3",
     "sails-disk": "~0.10.9",
-    "sendgrid": "^4.4.0"
+    "sendgrid": "^4.4.0",
+    "skipper-s3": "^0.5.11"
   },
   "scripts": {
     "debug": "node debug app.js",
