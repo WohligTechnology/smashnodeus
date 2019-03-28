@@ -180,6 +180,61 @@ var models = {
         }
       });
     }
+  },
+  convertUploadObjFromFiles: function(uploadObject) {
+    var url = "https://smasssh.sgp1.cdn.digitaloceanspaces.com/";
+    var locateUrl = "sgp1.digitaloceanspaces.com/smasssh/";
+    var obj = {
+      name: uploadObject.filename,
+      size: uploadObject.length,
+      storageName: uploadObject.filename,
+      location: locateUrl + uploadObject.filename,
+      cdnLocation: url + uploadObject.filename,
+      imageKey: uploadObject.filename
+    };
+    return obj;
+  },
+  getFilesInUploads: function(data, callback) {
+    async.waterfall(
+      [
+        function(callback) {
+          gfs.files.find().toArray(callback);
+        },
+        function(files, callback) {
+          var count = 0;
+          // console.log("files", files);
+          async.eachSeries(
+            files,
+            function(n, callback) {
+              var uploadedFiles = [];
+              uploadedFiles.push(Upload.convertUploadObjFromFiles(n));
+              // console.log(uploadedFiles);
+              async.eachLimit(
+                uploadedFiles,
+                1,
+                function(m, callback) {
+                  // console.log(m);
+                  var uploadObj = Upload(m);
+                  uploadObj.save(m, function(err, data) {
+                    // console.log("Save", data);
+                    if (err || _.isEmpty(data)) {
+                      callback(err);
+                    } else {
+                      count++;
+                      console.log(count);
+                      callback(null, "Uploaded");
+                    }
+                  });
+                },
+                callback
+              );
+            },
+            callback
+          );
+        }
+      ],
+      callback
+    );
   }
 };
 
