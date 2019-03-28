@@ -157,5 +157,8 @@ module.exports = {
       req.query.style,
       res
     );
+  },
+  getFilesInUploads: function(req, res) {
+    Upload.getFilesInUploads(req.body, res.callback);
   }
 };
