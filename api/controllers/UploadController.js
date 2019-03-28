@@ -68,7 +68,7 @@ module.exports = {
       adapter: require("skipper-s3"),
       key: "XD2C37PABN22MOSXFDVT",
       secret: "ssj9+k29Ff+MDM/LnnjETA1/fgjaeNlKVJZNm6hB/6c",
-      bucket: "smasssh",
+      bucket: "smaaash",
       headers: {
         "x-amz-acl": "public-read",
         "content-type": "image/png,image/jpeg"
