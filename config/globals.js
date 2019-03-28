@@ -61,3 +61,6 @@ module.exports.globals = {
 
 	// models: true
 };
+global["mongoose"] = require("mongoose");
+global["Grid"] = require("gridfs-stream");
+global["gfs"] = Grid(mongoose.connections[0].db, mongoose);
