@@ -55,7 +55,7 @@ var schema = new Schema({
 module.exports = mongoose.model("Upload", schema);
 var models = {
   convertUploadObj: function(uploadObject) {
-    var url = "https://smasssh.sgp1.cdn.digitaloceanspaces.com/";
+    var url = "https://smaaash.sgp1.cdn.digitaloceanspaces.com/";
     var locate = url + uploadObject.filename;
     var obj = {
       name: uploadObject.filename,
@@ -162,7 +162,7 @@ var models = {
               fileObj.storageName =
                 md5(JSON.stringify(fileObj)) + data.storageName;
               console.log(fileObj.storageName);
-              var file = storage.bucket("smasssh").file(fileObj.storageName);
+              var file = storage.bucket("smaaash").file(fileObj.storageName);
               var wstream = file.createWriteStream({
                 metadata: {
                   contentType: Jimp.MIME_PNG
@@ -182,8 +182,8 @@ var models = {
     }
   },
   convertUploadObjFromFiles: function(uploadObject) {
-    var url = "https://smasssh.sgp1.cdn.digitaloceanspaces.com/";
-    var locateUrl = "sgp1.digitaloceanspaces.com/smasssh/";
+    var url = "https://smaaash.sgp1.cdn.digitaloceanspaces.com/";
+    var locateUrl = "sgp1.digitaloceanspaces.com/smaaash/";
     var obj = {
       name: uploadObject.filename,
       size: uploadObject.length,
