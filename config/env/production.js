@@ -27,7 +27,7 @@ module.exports = {
   port: 3000,
   // Change it before putting on server
   // mongodb://username:password@201.12.12.2:27017/database
-  mongodbUrl: "mongodb://playmongodb:BhkRJqO^ts#!@134.209.148.186:27017/smaaashdb"
+  mongodbUrl: "mongodb://playmongodb:BhkRJqO^ts#!@134.209.148.186:27017/smaaashusadb"
 
   /***************************************************************************
    * Set the log level in production environment to "silent"                 *
